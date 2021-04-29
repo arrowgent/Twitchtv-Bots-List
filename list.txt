@@ -4,7 +4,10 @@ categories:
 top known, misc-lurkers, users -- that abuse the api
 
 
-TOP:
+TOP: the well known bots everyone should know.
 
 
+misc: bots that appear in every channel, created a few days ago, has hundreds/thousands of followers, never streamed before, are not following
 
+
+users: if youre a user in multiple channels not following but always appear in the viewer list, youre a bot.
