@@ -1,0 +1,10 @@
+alphabetical list of bots broken into category
+
+categories:
+top known, misc-lurkers, users -- that abuse the api
+
+
+TOP:
+
+
+
