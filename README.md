@@ -1,5 +1,5 @@
 # Twitchtv-Bots-List
-a list of (unwanted) known twitch bots that lurk in every channel...
+a [list](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/list.txt) of (unwanted) known twitch bots that lurk in every channel...
 
 
 ## definition of a lurker bot:
