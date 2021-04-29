@@ -25,6 +25,19 @@ v_and_k
 virgoproz
 
 
+users: if youre a user in multiple channels not following but always appear in the viewer list, youre a bot.
+bloodlustr
+commanderroot
+D4RK_5KY
+dinu
+EhRabz
+feet
+LANFusion
+LFGFUSION
+oozebrood
+TheChilledTee
+
+
 misc: (includes ALL) bots that appear in every channel, created a few days ago, has hundreds/thousands of followers, never streamed before, are not following
 0x626f74
 1FPS
@@ -37,6 +50,7 @@ aten
 bananennanen
 bilikirs
 BingCortana
+bloodlustr
 brokemystreamdeck
 Carbon14xyz
 carbot14xyz
@@ -48,11 +62,14 @@ commula
 community4smallstreamers
 CoubZilla
 crazycynical
+D4RK_5KY
 decafsmurf
+dinu
 discord_for_streamers
 DMCA_Administrator
 DroopDoggg
 druperchy
+EhRabz
 electricallongboard
 electricalskateboard
 eulersobject
@@ -60,6 +77,7 @@ ExtraMoar
 EZOBAY
 faegwent
 fearms1
+feet
 frw33d
 FToPayR
 galgoya
@@ -81,6 +99,7 @@ lanfusion
 lemonjuices12
 LetsDoThis_Streamers
 LeviathanAPP
+LFGFUSION
 LurkerNetwork
 lurxx
 moistkek
@@ -88,6 +107,7 @@ mr
 mr_roehrig
 NaughtyGirlNextDoor
 necromancer_420
+oozebrood
 OWN3D
 pingutio
 poopminty
@@ -117,6 +137,7 @@ stripfang
 stygian_styx
 tawmtawmz
 teresedirty
+TheChilledTee
 thedevilisob
 Thiccur
 tresinno
@@ -138,18 +159,6 @@ Violets_TV
 virgoproz
 YOSEFSA7
 zladk0
-
-
-users: if youre a user in multiple channels not following but always appear in the viewer list, youre a bot.
-commanderroot
-D4RK_5KY
-dinu
-EhRabz
-feet
-LANFusion
-LFGFUSION
-oozebrood
-TheChilledTee
 
 
 known legit bots: not a lurker bot, is used for & by the streamer as a tool in their OWN chat
