@@ -37,6 +37,10 @@ a [list](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/list.txt) of 
 * informative
 
 
+## missing bots user does not exist:
+* hopefully twitch removes bots occasionally.  while updating this list i noticed several are missing.  good.
+
+
 ## issues are open:
 * if you want to add suggestions for potential bots
 * if you believe you are NOT a bot, we can verify that
