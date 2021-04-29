@@ -1,4 +1,4 @@
-# Twitchtv-Bots-List
+# [Twitchtv-Bots-List](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/list.txt)
 a [list](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/list.txt) of (unwanted) known twitch bots that lurk in every channel...
 
 ![atenbot](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/aten_bot.png)
