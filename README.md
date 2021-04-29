@@ -1,7 +1,7 @@
 # Twitchtv-Bots-List
 a [list](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/list.txt) of (unwanted) known twitch bots that lurk in every channel...
 
-![atenbot])https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/aten_bot.png)
+![atenbot](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/aten_bot.png)
 
 ## definition of a lurker bot:
 * a viewer on the viewer list that --
