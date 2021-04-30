@@ -27,11 +27,13 @@ virgoproz
 
 users: if youre a user in multiple channels not following but always appear in the viewer list, youre a bot.
 bloodlustr
+business_daddy
 commanderroot
 D4RK_5KY
 dinu
 EhRabz
 feet
+immallytwitch
 LANFusion
 LFGFUSION
 oozebrood
@@ -43,8 +45,9 @@ misc: (includes ALL) bots that appear in every channel, created a few days ago, 
 1FPS
 2020
 a1bear
-anotherttvviewer
 AbbottCostello
+anotherttvviewer
+antoni_jastrzab
 ArtjomV2
 aten
 bananennanen
@@ -52,6 +55,8 @@ bilikirs
 BingCortana
 bloodlustr
 brokemystreamdeck
+business_daddy
+carbob14xyz
 Carbon14xyz
 carbot14xyz
 CasinoThanks
@@ -62,6 +67,7 @@ commula
 community4smallstreamers
 CoubZilla
 crazycynical
+creatisbot
 D4RK_5KY
 decafsmurf
 dinu
@@ -91,22 +97,26 @@ iAUTOHOST
 icantcontrolit
 icaro12oliveira
 IceWizerds
+immallytwitch
 inventkin
 jdlb
 jeffecorga
 JointEffortt
 lanfusion
+lecturerreflux
 lemonjuices12
 LetsDoThis_Streamers
 LeviathanAPP
 LFGFUSION
 LurkerNetwork
 lurxx
+lysbethemed
 moistkek
 mr
 mr_roehrig
 NaughtyGirlNextDoor
 necromancer_420
+omegajeppe
 oozebrood
 OWN3D
 pingutio
@@ -133,6 +143,7 @@ storecina
 strangebing
 streamers_area
 streamersdiscordcommunity
+streamholics
 stripfang
 stygian_styx
 tawmtawmz
