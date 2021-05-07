@@ -11,6 +11,7 @@ a [list](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/list.txt) of 
 * has never streamed before
 * appears in multiple channels at the same time
 * ![bot](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/easybot1.png)
+* [example list](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/thousands_bots.png)
 
 
 ## why a list of bots is useful:
