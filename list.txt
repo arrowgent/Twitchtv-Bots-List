@@ -4,27 +4,6 @@ categories:
 top known, misc-lurkers, users -- that abuse the api, KNOWN bots = legit bots
 
 
-TOP: the well known bots everyone should know.
-anotherttvviewer
-AbbottCostello
-aten
-commanderroot
-DroopDoggg
-electricallongboard
-electricalskateboard
-faegwent
-FToPayR
-GoWithHim
-IceWizerds
-JointEffortt
-lurxx
-SaddestKitty
-SkumShop
-slocool
-v_and_k
-virgoproz
-
-
 users: if youre a user in multiple channels not following but always appear in the viewer list, youre a bot.
 bloodlustr
 business_daddy
@@ -37,11 +16,14 @@ immallytwitch
 LANFusion
 LFGFUSION
 oozebrood
+servres
+STORMMUNITY
 TheChilledTee
 
 
 misc: (includes ALL) bots that appear in every channel, created a few days ago, has hundreds/thousands of followers, never streamed before, are not following
 0x626f74
+1174
 1FPS
 2020
 a1bear
@@ -91,6 +73,7 @@ GetAffiliated_NOW
 ghrly
 GoWithHim
 grifordia
+Hades_Osiris
 HaveThis2
 HotLocalMom
 iAUTOHOST
@@ -108,6 +91,7 @@ lemonjuices12
 LetsDoThis_Streamers
 LeviathanAPP
 LFGFUSION
+linervolatile
 LurkerNetwork
 lurxx
 lysbethemed
@@ -116,9 +100,11 @@ mr
 mr_roehrig
 NaughtyGirlNextDoor
 necromancer_420
+NerdyDreams
 omegajeppe
 oozebrood
 OWN3D
+Pawlina93
 pingutio
 poopminty
 prankcher
@@ -131,6 +117,7 @@ rubberslayer
 ryothscus
 SaddestKitty
 sad_grl
+servres
 shadowy_stix
 skinnyseahorse
 SkumShop
@@ -145,6 +132,8 @@ streamers_area
 streamersdiscordcommunity
 streamholics
 stripfang
+STORMMUNITY
+Stygian_Network
 stygian_styx
 tawmtawmz
 teresedirty
@@ -156,10 +145,13 @@ tteyyd
 Twitchdetails
 twitchencouragement
 TwitchGrowWitchUs
+TwitchGrowthDiscord
 twitchplays_zeldagames
 TwitchPrimeReminder
+UnderworldNaiad
 universe
 utensilzinc
+WarsOfTheTrekGateStar
 WetGrannies
 winsock
 v_and_k
