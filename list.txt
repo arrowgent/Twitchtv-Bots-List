@@ -165,4 +165,8 @@ zladk0
 
 
 known legit bots: not a lurker bot, is used for & by the streamer as a tool in their OWN chat
+moobot
 nightbot
+soundalerts
+streamelements
+streamlabs
