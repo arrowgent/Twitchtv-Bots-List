@@ -122,6 +122,7 @@ shadowy_stix
 skinnyseahorse
 SkumShop
 slocool
+social_twitch_discord
 srizbi
 srizbot
 Stay_Home_Bot
@@ -129,6 +130,7 @@ Stay_Pepega_bot
 storecina
 strangebing
 streamers_area
+streamers_on_discord
 streamersdiscordcommunity
 streamholics
 stripfang
