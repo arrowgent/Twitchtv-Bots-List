@@ -28,6 +28,7 @@ misc: (includes ALL) bots that appear in every channel, created a few days ago, 
 2020
 a1bear
 AbbottCostello
+adwin666
 anotherttvviewer
 antoni_jastrzab
 ArtjomV2
