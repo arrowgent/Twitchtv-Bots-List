@@ -4,23 +4,6 @@ categories:
 top known, misc-lurkers, users -- that abuse the api, KNOWN bots = legit bots
 
 
-users: if youre a user in multiple channels not following but always appear in the viewer list, youre a bot.
-bloodlustr
-business_daddy
-commanderroot
-D4RK_5KY
-dinu
-EhRabz
-feet
-immallytwitch
-LANFusion
-LFGFUSION
-oozebrood
-servres
-STORMMUNITY
-TheChilledTee
-
-
 misc: (includes ALL) bots that appear in every channel, created a few days ago, has hundreds/thousands of followers, never streamed before, are not following
 0x626f74
 1174
@@ -168,6 +151,9 @@ Violets_TV
 virgoproz
 YOSEFSA7
 zladk0
+
+
+users: if youre a user in multiple channels not following but always appear in the viewer list, youre a bot.
 
 
 known legit bots: not a lurker bot, is used for & by the streamer as a tool in their OWN chat
