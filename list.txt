@@ -11,6 +11,7 @@ misc: (includes ALL) bots that appear in every channel, created a few days ago, 
 2020
 a1bear
 AbbottCostello
+adenillect
 adwin666
 anotherttvviewer
 antoni_jastrzab
@@ -43,6 +44,7 @@ discord_for_streamers
 DMCA_Administrator
 DroopDoggg
 druperchy
+ecotourism
 EhRabz
 electricallongboard
 electricalskateboard
@@ -55,6 +57,7 @@ feet
 frw33d
 FToPayR
 galgoya
+garottes
 GetAffiliated_NOW
 ghrly
 GoWithHim
@@ -87,6 +90,7 @@ mr_roehrig
 NaughtyGirlNextDoor
 necromancer_420
 NerdyDreams
+nicholsstand
 omegajeppe
 oozebrood
 OWN3D
@@ -113,6 +117,7 @@ srizbi
 srizbot
 Stay_Home_Bot
 Stay_Pepega_bot
+stickypigs
 storecina
 strangebing
 streamers_area
