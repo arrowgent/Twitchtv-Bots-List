@@ -112,6 +112,7 @@ shadowy_stix
 skinnyseahorse
 SkumShop
 slocool
+social_growth_discord
 social_twitch_discord
 srizbi
 srizbot
