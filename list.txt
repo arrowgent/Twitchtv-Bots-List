@@ -136,6 +136,7 @@ SkumShop
 slocool
 social_growth_discord
 social_twitch_discord
+sociologys
 srizbi
 srizbot
 Stay_Home_Bot
