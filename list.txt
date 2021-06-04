@@ -1,10 +1,10 @@
-alphabetical list of bots broken into category
+# alphabetical list of bots broken into category
 
-categories:
-top known, misc-lurkers, users -- that abuse the api, KNOWN bots = legit bots
+# categories:
+# top known, misc-lurkers, users -- that abuse the api, KNOWN bots = legit bots
 
 
-misc: (includes ALL) bots that appear in every channel, created a few days ago, has hundreds/thousands of followers, never streamed before, are not following
+# misc: (includes ALL) bots that appear in every channel, created a few days ago, has hundreds/thousands of followers, never streamed before, are not following
 0x626f74
 1174
 1FPS
@@ -32,6 +32,7 @@ business_daddy
 carbob14xyz
 Carbon14xyz
 carbot14xyz
+cashiering
 CasinoThanks
 chipewyans
 cleaning_the_house
@@ -80,6 +81,7 @@ ghrly
 goldswimming
 GoWithHim
 grifordia
+guerilla_hoarfare
 Hades_Osiris
 HaveThis2
 HotLocalMom
@@ -108,6 +110,7 @@ lurkingchat
 lurxx
 lysbethemed
 maddyson_moy_bog
+makimfh
 moistkek
 mr
 mr_roehrig
@@ -168,12 +171,14 @@ stripfang
 STORMMUNITY
 Stygian_Network
 stygian_styx
+surplused
 swampiest
 tawmtawmz
 teresedirty
 TheChilledTee
 thedevilisob
 Thiccur
+tightwads
 toileted
 tonnages
 tresinno
@@ -208,12 +213,12 @@ YOSEFSA7
 zladk0
 
 
-users: if youre a user in multiple channels not following but always appear in the viewer list, youre a bot.
+# users: if youre a user in multiple channels not following but always appear in the viewer list, youre a bot.
 
 
-known legit bots: not a lurker bot, is used for & by the streamer as a tool in their OWN chat
-moobot
-nightbot
-soundalerts
-streamelements
-streamlabs
+# known legit bots: not a lurker bot, is used for & by the streamer as a tool in their OWN chat
+## moobot
+## nightbot
+## soundalerts
+## streamelements
+## streamlabs
