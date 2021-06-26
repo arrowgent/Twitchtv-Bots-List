@@ -5,6 +5,7 @@
 
 
 # misc: (includes ALL) bots that appear in every channel, created a few days ago, has hundreds/thousands of followers, never streamed before, are not following
+007_bad_girl
 0x626f74
 1174
 1FPS
@@ -47,6 +48,7 @@ comettunes
 commanderroot
 commula
 community4smallstreamers
+comrade2face
 concocts
 CoubZilla
 crazycynical
@@ -54,12 +56,14 @@ creatisbot
 d4rk_5how
 D4RK_5KY
 decafsmurf
+delteerdatap3
 dinoevol
 dinu
 d1sc0rdforsmallstreamers
 disc0rdforsma11streamers
 Disc0rdforstreamers 
 discord_for_streamers
+dj_vermeer
 DMCA_Administrator
 doll_house_surprise
 DroopDoggg
@@ -76,6 +80,7 @@ EZOBAY
 faegwent
 fearms1
 feet
+floboytwi
 forcepss
 forefronts
 frw33d
@@ -97,7 +102,9 @@ icantcontrolit
 icaro12oliveira
 IceWizerds
 immallytwitch
+industrialparasite
 inventkin
+isnicable
 itsvodoo
 jd_o_0
 jd1d
@@ -105,6 +112,7 @@ jdlb
 jeffecorga
 JointEffortt
 junketing
+kodiakbrujah
 lanfusion
 lecturerreflux
 lemonjuices12
@@ -116,6 +124,7 @@ liquidpve
 ljlcard
 longevitys
 LurkerNetwork
+lurkiefox
 lurkingchat
 lurxx
 lysbethemed
@@ -146,6 +155,7 @@ pro_gamer_network
 qoqsik
 quavered
 ra1denz
+rainmaker
 randtarcedic1973
 re1yk
 risa_omari
@@ -153,6 +163,7 @@ roadchecker
 RogueG1rl
 round_track_car
 rubberslayer
+ruinexiv
 rummages
 ryothscus
 SaddestKitty
@@ -167,6 +178,7 @@ social_twitch_discord
 sociologys
 srizbi
 srizbot
+ssakdook
 Stay_Home_Bot
 Stay_Pepega_bot
 stickypigs
@@ -214,6 +226,7 @@ WetGrannies
 winsock
 wpfid5555
 v_and_k
+v_tel
 vaidather
 vaticancitymagoo
 VeryNaughtyWife
