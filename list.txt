@@ -6,11 +6,22 @@
 
 # misc: (includes ALL) bots that appear in every channel, created a few days ago, has hundreds/thousands of followers, never streamed before, are not following
 007_bad_girl
+0x25e
+0x45
+0x45e
+0x45e_banned
+0x45e_tta
+0x45e_twitchsucks
+0x45e_xml
 0x626f74
+1111111111111115
 1174
 1FPS
 2020
+2600_6c5e_5b7f_fdcd_venom
+2603_6000_ba07_8c751_cc60
 549239487
+870179692248961058
 a1bear
 AbbottCostello
 abeornald9345
@@ -54,6 +65,13 @@ CasinoThanks
 cgajen8369
 chipewyans
 cleaning_the_house
+clickonmeplease
+clickonmeplease1
+clickonmeplease2
+clickonmeplease3
+clickonmeplease4
+clickonmeplease5
+clickonmeplease6
 cogwhistle
 comettunes
 commanderroot
@@ -120,6 +138,7 @@ delteerdatap34
 delteerdatap35
 delteerdatap67
 deriding
+dexiphp
 dinoevol
 dinu
 d1sc0rdforsmallstreamers
@@ -211,6 +230,9 @@ NaughtyGirlNextDoor
 necromancer_420
 NerdyDreams
 nicholsstand
+night_php
+night_php_lunasec
+night_shell
 omegajeppe
 oozebrood
 outside_gardening
@@ -221,6 +243,7 @@ pboj
 peculiarasmr
 perorations
 phantom_309
+phpshit
 pingutio
 poopminty
 prankcher
@@ -232,6 +255,7 @@ ra1denz
 rainmaker
 randtarcedic1973
 re1yk
+rememberlunasec
 reuvenatar
 risa_omari
 roadchecker
@@ -247,6 +271,7 @@ sad_grl
 sefirivlin
 servres
 shadowy_stix
+shell_upload_php
 shlomosharf
 skinnyseahorse
 SkumShop
@@ -284,6 +309,8 @@ tawmtawmz
 teresedirty
 TheChilledTee
 thedevilisob
+thetwitchauthority
+thetwitchauthority2
 Thiccur
 tightwads
 toileted
@@ -291,6 +318,7 @@ tonnages
 tresinno
 trowelled
 trunkdunk
+ttaproxy
 tteyyd
 Twitchdetails
 twitchencouragement
@@ -318,6 +346,7 @@ vicarchurger
 viceeeen
 Violets_TV
 virgoproz
+xqcmate
 xxdemonkitty
 yamickle
 yete
