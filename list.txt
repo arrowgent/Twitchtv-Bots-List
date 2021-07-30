@@ -101,6 +101,7 @@ ddatapc35
 ddatapc45
 ddatapc53
 decafsmurf
+delteerdata
 delteerdatap1
 delteerdatap2
 delteerdatap3
