@@ -68,6 +68,8 @@ cwig5592
 d4rk_5how
 D4RK_5KY
 dcserverforsmallstreamers
+ddatapb1
+ddatapc1
 ddatapb35
 ddatapc35
 decafsmurf
@@ -78,7 +80,10 @@ delteerdatap4
 delteerdatap6
 delteerdatap8
 delteerdatap9
+delteerdatap10
 delteerdatap12
+delteerdatap13
+delteerdatap19
 delteerdatap35
 deriding
 dinoevol
