@@ -6,6 +6,7 @@
 
 # misc: (includes ALL) bots that appear in every channel, created a few days ago, has hundreds/thousands of followers, never streamed before, are not following
 007_bad_girl
+0tothepowerof0
 0x25e
 0x45
 0x45e
@@ -40,6 +41,7 @@ ArtjomV2
 asidayan
 aten
 attractants
+autocrats
 babasababapog
 ball857
 bananennanen
@@ -62,7 +64,9 @@ Carbon14xyz
 carbot14xyz
 cashiering
 CasinoThanks
+centenarys
 cgajen8369
+chat_fantastic
 chipewyans
 choppering
 cleaning_the_house
@@ -169,6 +173,7 @@ feet
 floboytwi
 forcepss
 forefronts
+friend_request_me
 frw33d
 FToPayR
 galgoya
@@ -279,6 +284,7 @@ shlomosharf
 skinnyseahorse
 SkumShop
 slocool
+smallsteramersdcserver
 socialfriends11
 social_growth_discord
 social_twitch_discord
