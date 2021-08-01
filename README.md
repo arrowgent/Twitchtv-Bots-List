@@ -37,6 +37,7 @@ a [list](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/list.txt) of 
 * **twitch-dl** clips username
 * if none exist then check username account on twitch.tv or other tools (**streamlink-twitch-gui**)
 * if no profile picture or offline screen
+* check BotList in Resources below if user appears in more than 50 channels simultaneously
 * lastly, check other low (1) viewer channels if this bot (user) appears there simultaneously
 
 
@@ -63,3 +64,4 @@ a [list](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/list.txt) of 
 ## other resources:
 * https://twitchinsights.net/bots
 * https://twitchbots.info/bots
+* https://twitch-tools.rootonline.de/ note `commanderroot can be blocked/banned also, even if you use their tool`
