@@ -1,38 +1,61 @@
----
-name: BOT REPORT
-about: are you a human?
-title: "[BOT]"
-labels: bug, documentation, enhancement, help wanted, question
-assignees: ''
+name: BOT Report
+description: File a BOT report
+title: "[Bot]: "
+labels: [bot]
 
----
-
-**Describe the bug**
-A clear and concise description of what the bug is.
-
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
-
-**Expected behavior**
-A clear and concise description of what you expected to happen.
-
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Are you a BOT?
+  - type: input
+    id: username
+    attributes:
+      label: BOT NAME
+      description: user bot name
+      placeholder: yes i am a bot
+    validations:
+      required: false
+  - type: textarea
+    id: robot world
+    attributes:
+      label: verify
+      description: give example
+      placeholder: why is a bot ruining us?
+      value: "a bot infestation"
+    validations:
+      required: true
+  - type: dropdown
+    id: version
+    attributes:
+      label: Version
+      description: real or not?
+      options:
+        - BOT
+        - user
+    validations:
+      required: true
+  - type: dropdown
+    id: browsers
+    attributes:
+      label: What system are you seeing the bot on?
+      multiple: true
+      options:
+        - Firefox
+        - Chrome
+        - Chatty
+        - Botlist
+  - type: textarea
+    id: logs
+    attributes:
+      label: log output
+      description: post log
+      render: shell
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: CODE
+      description: are you human?
+      options:
+        - label: i am human
+          required: true
