@@ -41,10 +41,12 @@ body:
       label: What system are you seeing the bot on?
       multiple: true
       options:
-        - Firefox
-        - Chrome
+        - TWITCH
+        - Mobile APP
         - Chatty
+        - Chatterino
         - Botlist
+        - Other
   - type: textarea
     id: logs
     attributes:
