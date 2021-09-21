@@ -481,6 +481,7 @@ sefirivlin
 seiiaaa
 servres
 shadowy_stix
+Shanuala
 shell_upload_php
 shlomosharf
 shypuf
