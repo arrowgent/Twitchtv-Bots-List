@@ -28,7 +28,7 @@ a [list](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/list.txt) of 
 
 ## method of detection:
 * using **CHATTY** --
-* click on username to see if following current channel
+* click on username to see if following current channel (or `/userinfo username`)
 * if not following, then
 * look at follower count & creation date
 * if more than ~20-40 followers check if title & category is set
