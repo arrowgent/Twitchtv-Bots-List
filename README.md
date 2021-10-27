@@ -56,6 +56,17 @@ a [list](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/list.txt) of 
 * however if you claim NOT to be a bot, you should remove yourself from lurking in HUNDREDS or THOUSANDS of channels simultaneously (definition)
 
 
+## my twitch list [script](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/scripts/twlist.sh)
+* this list is designed for gnu/linux, its a bash script
+* for automation, cleaning, checking, and all in one "file" for managing list.txt
+* verifies if user exists on twitch (twitch-dl)
+* wget list.txt from here (download)
+* alphabetizes and sorts list.txt
+* downloads json file bot list (external) and appends to list.txt (add your own list)
+<br />
+*botlist* is sanitized against "known good bots", an imprecise science, if you need removal submit an issue
+
+
 ## other lists:
 * https://github.com/MrEliasen/twitch-bot-list
 * https://ban-twitch-bots.sirmre.com/
@@ -64,5 +75,6 @@ a [list](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/list.txt) of 
 ## other resources:
 * https://twitchinsights.net/bots
 * https://twitchbots.info/bots
-* https://twitch-tools.rootonline.de/<br />
+* https://twitch-tools.rootonline.de/
+<br />
 note `commanderroot can be blocked/banned also, even if you use their tool` & i recommend pasting this [list.txt](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/list.txt) into the root ban & block filter tool.
