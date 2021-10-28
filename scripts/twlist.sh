@@ -18,26 +18,28 @@ while true; do
 #                twitch-dl videos "${line%%#*}";
 #                grep -qi "Channel "${line%%#*}" not found";
 # variable used for checking
-                twitch-dl videos "${line%%#*}" --limit 1| head -2 | tail -1|while read -r remove;
+                twitch-dl videos "${line%%#*}" --limit 1|head -2|tail -1|while read -r remove;
                     do
-                        remove=$remove
+#                        remove=$remove
 # actually editing the list.txt file
-                        if [[ "echo $remove" =~ "No videos found" ]];
-                        then
-# caveat, if videos do exist then removed from list...
-                            echo $remove|grep -i "No videos found";
-#                            echo $remove|grep -i "https://www.twitch.tv/videos";
-                            echo "${line%%#*}" user exists;
-                        else
-                            echo "${line%%#*}" user removed;
-#                            echo $remove|grep -qi "Channel "${line%%#*}" not found";
-                            cat $list|grep -qi "${line%%#*}"|xargs sed -i -s -r "s/\b${line%%#*}\b//gI" "$list";
+                        if [[ "echo $remove" =~ "---"|"No videos found" ]];
+                            then
+# caveat, if videos do exist then removed from list... *fixed*
+# line 2 "No videos found"
+# alternate line 2 "--------------------------------------------------------------------------------"
+                                echo $remove;
+                                echo "${line%%#*}" user exists;
+                            else
+#                                echo $remove;
+                                echo "${line%%#*}" user removed;
+                                cat $list|grep -qi "${line%%#*}"|xargs sed -i -s -r "s/\b${line%%#*}\b//gI" "$list";
                         fi
-                    done;
+                    done
 # timeout so not spam the api
-                sleep 0.5;
+                sleep 0.69;
 # read from list.txt file
-            done < <(grep -vi "^#\|^$" $list);;
+            done < <(grep -vi "^#\|^$" $list);
+            echo "DONE: recommended alphabetize & sort before using";;
 # alphabetize the list.txt file
 # only real way is to create a new file then move it. this can be done in tmpfs if desired
         [Aa]* ) echo "alphabetical output -> list.txt";
