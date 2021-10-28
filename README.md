@@ -50,12 +50,6 @@ a [list](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/list.txt) of 
 * bot changed username
 
 
-## issues are open:
-* if you want to add suggestions for potential bots
-* if you believe you are NOT a bot, we can verify that
-* however if you claim NOT to be a bot, you should remove yourself from lurking in HUNDREDS or THOUSANDS of channels simultaneously (definition)
-
-
 ## my twitch list [script](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/scripts/twlist.sh)
 * this list is designed for gnu/linux, its a bash script
 * for automation, cleaning, checking, and all in one "file" for managing list.txt
@@ -65,6 +59,12 @@ a [list](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/list.txt) of 
 * downloads json file bot list (external) and appends to list.txt (add your own list)
 <br />
 *botlist* is sanitized against "known good bots", an imprecise science, if you need removal submit an issue
+
+
+## issues are open:
+* if you want to add suggestions for potential bots
+* if you believe you are NOT a bot, we can verify that
+* however if you claim NOT to be a bot, you should remove yourself from lurking in HUNDREDS or THOUSANDS of channels simultaneously (definition)
 
 
 ## other lists:
