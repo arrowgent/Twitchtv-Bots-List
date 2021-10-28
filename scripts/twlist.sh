@@ -14,9 +14,9 @@ while true; do
         [Vv]* ) while read -r line
 			do
 # testing
-#				echo "${line%%#*}";
-#				twitch-dl videos "${line%%#*}";
-#               grep -qi "Channel "${line%%#*}" not found";
+#                echo "${line%%#*}";
+#                twitch-dl videos "${line%%#*}";
+#                grep -qi "Channel "${line%%#*}" not found";
 # variable used for checking
                 twitch-dl videos "${line%%#*}" --limit 1| head -2 | tail -1|while read -r remove;
                     do
@@ -26,18 +26,18 @@ while true; do
                         then
 # caveat, if videos do exist then removed from list...
                             echo $remove|grep -i "No videos found";
-                            echo $remove|grep -i "https://www.twitch.tv/videos";
+#                            echo $remove|grep -i "https://www.twitch.tv/videos";
                             echo "${line%%#*}" user exists;
                         else
                             echo "${line%%#*}" user removed;
 #                            echo $remove|grep -qi "Channel "${line%%#*}" not found";
-        				    cat $list|grep -qi "${line%%#*}"|xargs sed -i -s -r "s/\b${line%%#*}\b//gI" "$list";
+                            cat $list|grep -qi "${line%%#*}"|xargs sed -i -s -r "s/\b${line%%#*}\b//gI" "$list";
                         fi
                     done;
 # timeout so not spam the api
-				sleep 0.5;
+                sleep 0.5;
 # read from list.txt file
-			done < <(grep -vi "^#\|^$" $list);;
+            done < <(grep -vi "^#\|^$" $list);;
 # alphabetize the list.txt file
 # only real way is to create a new file then move it. this can be done in tmpfs if desired
         [Aa]* ) echo "alphabetical output -> list.txt";
@@ -45,7 +45,7 @@ while true; do
 # wget latest list.txt file
         [Gg]* ) wget -N "https://raw.githubusercontent.com/arrowgent/Twitchtv-Bots-List/main/list.txt";;
         [Ss]* ) cat $list;;
-# get current bot list from this api, "Currently In ~100 Amount Of Live Channels"
+# get current bot list from this api, "Currently In ~100+ Amount Of Live Channels"
         [Bb]* ) echo "update https://api.twitchinsights.net/v1/bots/online";
                 curl https://api.twitchinsights.net/v1/bots/online > $lbots;
 #                python -mjson.tool $lbots;;
