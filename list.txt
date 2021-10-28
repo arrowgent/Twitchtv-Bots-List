@@ -6,6 +6,7 @@
 
 # misc: (includes ALL) bots that appear in every channel, created a few days ago, has hundreds/thousands of followers, never streamed before, are not following
 007_bad_girl
+0_nekopara_0
 0x45
 0x626f74
 1174
@@ -14,16 +15,20 @@
 1nittogether
 2020
 a1bear
+aadelead4271
 abardea211
 abbottcostello
 abeornald9345
 abert3020
 academyimpossible
+adonra9967
 adwin666
 afk_as_usual
 afridwise2282
+ajefflas6920
 ajoferth7332
 akafred5548
+alexii221
 alexsaurora27
 aliengathering
 allroadsleadtothefarm
@@ -34,8 +39,10 @@ animozi
 anotherttvviewer
 anthropologydept
 antoni_jastrzab
+apaulthony8149
 aric775
 arierie1956
+arrowgentlogician
 aru444
 asam2861
 aseanken8566
@@ -50,6 +57,7 @@ bambooozeld
 bananennanen
 bandsan6780
 bathas3966
+bcomewaru4014
 bearfish1
 bear_wit_me
 benjaminenetaniahu
@@ -66,10 +74,13 @@ blkheroeseverywhere
 bloodlustr
 blup
 bnald3267
+bnanwine1411
+bnecrow7950
 bobsledded
 bongbar
 bpeke2274
 brahdryt2517
+brickev378
 brokemystreamdeck
 bswithken8619
 btolruth8776
@@ -87,12 +98,15 @@ centenarys
 cgajen8369
 chaimrevivo
 choppering
+cjeffpa1110
+claever4990
 claire_sir_chistory
 cleaning_the_house
 cmaxald9776
 cneacarrah3003
 coauthoring
 cogwhistle
+comesma6127
 comettunes
 commanderroot
 commula
@@ -108,9 +122,12 @@ cswithria5848
 cthrythtine3566
 cubtree
 cuead512
+cwerdphie8369
 cwig5592
 cyndyka
 d4rk_5how
+d4rk_5ky
+dailydayna
 dankrit
 davidbengurion1
 ddatapb1
@@ -272,6 +289,7 @@ delteerdatap7
 delteerdatap8
 delteerdatap9
 dinu
+dj_vermeer
 doll_house_surprise
 drlucylove
 droopdoggg
@@ -281,6 +299,7 @@ duckgoosovitz
 dukan_rex
 dynaterra
 edellyna
+ehrabz
 ehudbarak
 elbretweets
 electricallongboard
@@ -298,6 +317,8 @@ farminggurl
 fearms1
 feet
 fixloven
+floboytwi
+frw33d
 ftopayr
 galgoya
 gik_gok
@@ -313,7 +334,9 @@ iautohost
 icantcontrolit
 icaro12oliveira
 icewizerds
+immallytwitch
 inaqt
+industrialparasite
 inventkin
 isnicable
 itsvodoo
@@ -337,11 +360,10 @@ leviathanapp
 levieshkol
 lfgfusion
 lillyredwolf
+liquidpve
 ljlcard
-logiceftbot
 lorypub
 lowtik
-lukanard
 luki4fun_bot_master
 lurkiefox
 lurkingchat
@@ -349,6 +371,7 @@ lurxx
 lylituf
 maddynsun
 maddyson_moy_bog
+makimfh
 manning_wilkins
 mararomano
 menachembegin1
@@ -367,6 +390,7 @@ newolk69
 ninatela
 omegajeppe
 ooo_star_ooo
+oozebrood
 orthoduk
 ortholexy
 outside_gardening
@@ -374,6 +398,7 @@ outside_working
 own3d
 pacopepeconstructor
 pboj
+peculiarasmr
 peer2peerbot
 phantom_309
 pilotmikex
@@ -382,11 +407,11 @@ playwithviewersbot
 prankcher
 public_enemy821
 qnfgogtktls
+qoqsik
 ra1denz
 rainmaker
 re1yk
 rekmux
-resdftw
 reuvenatar
 rietty
 rimastino
@@ -417,6 +442,7 @@ skumshop
 slocool
 smallsteramersdcserver
 smallstreamersdcserver
+songlistbot
 sophikal
 spiketrapclair
 srizbi
@@ -438,11 +464,13 @@ stygian_styx
 sunamano
 tacotuesday7313
 tanonjaeng
+tawmtawmz
 teazyou
 temp_account100
 temp_account132
 teresedirty
 testt64
+thechilledtee
 thedevilisob
 thefishcannon
 thesubwaybread
@@ -450,11 +478,14 @@ thiccur
 tinarif
 tizcloud
 tresinno
+trevyn201
 tteyyd
 twitchencouragement
+twitchplays_zeldagames
 uncle_spawn
 underworldnaiad
 universe
+un_viri
 usb_keyboard_unplugged
 v_and_k
 vaticancitymagoo
@@ -481,14 +512,22 @@ yitzhakrabin3
 yitzhakshamir
 yubother
 yukiii__y
+zladk0
 
 
 # users: if youre a user in multiple channels not following but always appear in the viewer list, youre a bot.
 
 
 # known legit bots: not a lurker bot, is used for & by the streamer as a tool in their OWN chat
+## buttsbot
+## creatisbot
+## lolrankbot
+## mtgbot 
 ## moobot
 ## nightbot
+## restreambot
 ## soundalerts
 ## streamelements
 ## streamlabs
+## wizebot
+## wzbot (maybe, unsure)
