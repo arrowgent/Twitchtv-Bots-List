@@ -1,4 +1,15 @@
-# software used in twlist (gnu/linux)
+## my twitch list script
+* this script is designed for gnu/linux, its a bash script
+* for automation, cleaning, checking, and all in one "file" for managing list.txt
+* verifies if user exists on twitch (twitch-dl)
+* download list.txt from here (wget)
+* alphabetizes and sorts list.txt
+* downloads json file bot list (external) and appends to list.txt (add your own list)
+
+*botlist* is sanitized against "known good bots", an imprecise science, if you need removal submit an issue
+
+
+## software used in twlist (gnu/linux)
 * awk
 * bash
 * case
