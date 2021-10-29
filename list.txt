@@ -30,6 +30,7 @@ afridwise2282
 ajefflas6920
 ajoferth7332
 akafred5548
+akseleron03
 alexii221
 alexsaurora27
 aliengathering
@@ -322,6 +323,7 @@ fixloven
 floboytwi
 frw33d
 ftopayr
+fuoletovui_banan
 galgoya
 gik_gok
 glasnosts
@@ -354,6 +356,7 @@ kekwkaka4040
 kittenrescue
 kittykat513
 kodiakbrujah
+ladaellada
 lady_bath_horey
 lanarayyyy
 lanfusion
@@ -365,6 +368,7 @@ lfgfusion
 lillyredwolf
 liquidpve
 ljlcard
+l_nephilim_l
 logiceftbot
 lorypub
 lowtik
@@ -392,6 +396,7 @@ music_and_arts
 natzelly
 nerdydreams
 newolk69
+nexysssss
 ninatela
 omegajeppe
 ooo_star_ooo
@@ -402,10 +407,12 @@ outside_gardening
 outside_working
 own3d
 pacopepeconstructor
+pandeon_22
 pboj
 peculiarasmr
 peer2peerbot
 phantom_309
+phyton_tyan
 pilotmikex
 pingutio
 playwithviewersbot
@@ -424,6 +431,7 @@ risa_omari
 rladmsdb88
 roadchecker
 rogueg1rl
+romainstant1
 ronenharazi
 ronyrozental
 round_track_car
@@ -440,6 +448,7 @@ shanuala
 shimeonperes
 shlomosharf
 shypuf
+simatashka
 simonedeboudoir
 sirrelu
 skinnyseahorse
@@ -507,9 +516,11 @@ whalepig1
 winsock
 wofflestoffle
 wpfid5555
+x3_xto
 xhylane
 xohatsumi
 xokocodo
+xvxxii
 xxdemonkitty
 xyfm
 yamickle
@@ -519,6 +530,7 @@ yitzhakshamir
 yubother
 yukiii__y
 zladk0
+zuclo32
 
 
 # users: if youre a user in multiple channels not following but always appear in the viewer list, youre a bot.
