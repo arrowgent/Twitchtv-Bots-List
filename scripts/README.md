@@ -8,6 +8,8 @@
 
 *botlist* is sanitized against "known good bots", an imprecise science, if you need removal submit an issue
 
+![twlist verify](https://raw.githubusercontent.com/arrowgent/Twitchtv-Bots-List/main/twlVerify_ex1.png)
+
 
 ## software used in twlist (gnu/linux)
 * awk
