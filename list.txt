@@ -545,8 +545,11 @@ zuclo32
 ## mtgbot 
 ## moobot
 ## nightbot
+## pretzelrocks
 ## restreambot
+## sery_bot
 ## soundalerts
+## streamholics
 ## streamelements
 ## streamlabs
 ## wizebot
