@@ -12,7 +12,7 @@ while true; do
     read -p "twlist (V)erify users, (A)lphabetize list, (G)et list, (S)how list (B)ots update * exit > " vagsb
     case $vagsb in
         [Vv]* ) while read -r line
-			do
+            do
 # testing
 #                echo "${line%%#*}";
 #                twitch-dl videos "${line%%#*}";
@@ -25,8 +25,6 @@ while true; do
                         if [[ "echo $remove" =~ "---"|"No videos found" ]];
                             then
 # caveat, if videos do exist then removed from list... *fixed*
-# line 2 "No videos found"
-# alternate line 2 "--------------------------------------------------------------------------------"
                                 echo $remove;
                                 echo "${line%%#*}" user exists;
                             else
@@ -50,14 +48,13 @@ while true; do
 # get current bot list from this api, "Currently In ~100+ Amount Of Live Channels"
         [Bb]* ) echo "update https://api.twitchinsights.net/v1/bots/online";
                 curl https://api.twitchinsights.net/v1/bots/online > $lbots;
-#                python -mjson.tool $lbots;;
 # extract and format, print to file
                 cat $lbots|jq .bots[]|grep '".*"'|grep -vi "^#\|^$"|sed 's/"//g'|sed 's/,//g'|awk '{gsub(/^ +| +$/,"")} {print $0}'|sort >> $lnew;
                 rm $lbots;
 # remove known good safe bots (streamelements, streamlabs, etc) note only removing from api bot list, not list.txt
 # may need tweaking... there are 200+ names on this list
                 echo "remove known good bots";
-                gbot=( buttsbot creatisbot lolrankbot moobot mtgbot nightbot restreambot soundalerts streamelements streamlabs wizebot wzbot )
+                gbot=( buttsbot creatisbot lolrankbot moobot mtgbot nightbot pretzelrocks restreambot sery_bot soundalerts streamholics streamelements streamlabs wizebot wzbot )
                 echo ${gbot[@]};
                 for i in ${gbot[@]}
                 do
