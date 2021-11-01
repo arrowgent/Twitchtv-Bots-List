@@ -549,4 +549,4 @@ zuclo32
 ## streamelements
 ## streamlabs
 ## wizebot
-## wzbot (maybe, unsure)
+## wzbot
