@@ -75,6 +75,7 @@ a [list](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/list.txt) of 
 ## other resources:
 * https://twitchinsights.net/bots
 * https://twitchbots.info/bots
+* https://streamscharts.com/tools/bots
 * https://twitch-tools.rootonline.de/
 * https://modlookup.3v.fi/top
 <br />
