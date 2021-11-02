@@ -25,6 +25,8 @@ while true; do
                         if [[ "echo $remove" =~ "---"|"No videos found" ]];
                             then
 # caveat, if videos do exist then removed from list... *fixed*
+# GraphQL query failed *needfix
+# * service timeout *needfix
                                 echo $remove;
                                 echo "${line%%#*}" user exists;
                             else
@@ -48,13 +50,24 @@ while true; do
 # get current bot list from this api, "Currently In ~100+ Amount Of Live Channels"
         [Bb]* ) echo "update https://api.twitchinsights.net/v1/bots/online";
                 curl https://api.twitchinsights.net/v1/bots/online > $lbots;
+# archived CURRENT json
+#                curl https://web.archive.org/web/20201116193307/https://api.twitchinsights.net/v1/bots/online >> $lbots;
+#                curl https://web.archive.org/web/20201204040048/https://api.twitchinsights.net/v1/bots/online >> $lbots;
+#                curl https://web.archive.org/web/20210304155609/https://api.twitchinsights.net/v1/bots/online >> $lbots;
+#                curl https://web.archive.org/web/20210927112324/https://api.twitchinsights.net/v1/bots/online >> $lbots;
+# archive of ALL (VERY LARGE)
+#                curl https://web.archive.org/web/20201204040048/https://api.twitchinsights.net/v1/bots/all >> $lbots;
+#                curl https://web.archive.org/web/20201116193307/https://api.twitchinsights.net/v1/bots/all >> $lbots;
+#                curl https://web.archive.org/web/20210304155609/https://api.twitchinsights.net/v1/bots/all >> $lbots;
+#                curl https://web.archive.org/web/20210927112324/https://api.twitchinsights.net/v1/bots/all >> $lbots;
 # extract and format, print to file
+                echo "converting json to username list & sort";
                 cat $lbots|jq .bots[]|grep '".*"'|grep -vi "^#\|^$"|sed 's/"//g'|sed 's/,//g'|awk '{gsub(/^ +| +$/,"")} {print $0}'|sort >> $lnew;
                 rm $lbots;
 # remove known good safe bots (streamelements, streamlabs, etc) note only removing from api bot list, not list.txt
 # may need tweaking... there are 200+ names on this list
                 echo "remove known good bots";
-                gbot=( buttsbot creatisbot lolrankbot moobot mtgbot nightbot pretzelrocks restreambot sery_bot soundalerts streamholics streamelements streamlabs wizebot wzbot )
+                gbot=( 9kmmrbot buttsbot creatisbot dr3ddbot kikettebot logiceftbot lolrankbot mikuia moobot mtgbot nightbot playwithviewersbot pretzelrocks restreambot sery_bot songlistbot soundalerts sport_scores_bot ssakdook streamelements streamholics streamlabs wizebot wzbot )
                 echo ${gbot[@]};
                 for i in ${gbot[@]}
                 do
@@ -63,7 +76,9 @@ while true; do
 # very messy... append list.txt, organize, unique, sort, remove extra files.
                 cat $lnew >> $list;
                 rm $lnew;
-                sed 's/.*/\L&/' $list|uniq|grep -vi "^#\|^$"|sort -uo $list;;
+                echo "sorting list.txt";
+                sed 's/.*/\L&/' $list|uniq|grep -vi "^#\|^$"|sort -uo $list;
+                echo "DONE: recommended alphabetize & sort before using";;
         * ) exit;;
     esac
 done
