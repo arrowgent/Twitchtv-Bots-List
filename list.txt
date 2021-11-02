@@ -1,10 +1,4 @@
 # alphabetical list of bots broken into category
-
-# categories:
-# top known, misc-lurkers, users -- that abuse the api, KNOWN bots = legit bots
-
-
-# misc: (includes ALL) bots that appear in every channel, created a few days ago, has hundreds/thousands of followers, never streamed before, are not following
 007_bad_girl
 0_nekopara_0
 0x45
