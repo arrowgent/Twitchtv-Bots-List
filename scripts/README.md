@@ -29,3 +29,4 @@
 * uniq
 * wget
 * while
+* xargs
