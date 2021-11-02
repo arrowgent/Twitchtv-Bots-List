@@ -80,4 +80,5 @@ a [list](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/list.txt) of 
 * https://twitch-tools.rootonline.de/
 * https://modlookup.3v.fi/top
 <br />
-note `commanderroot can be blocked/banned also, even if you use their tool` & i recommend pasting this [list.txt](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/list.txt) into the root ban & block filter tool.
+
+note `commanderroot can be blocked/banned also, even if you use their tool` & i recommend pasting this [list](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/list.txt) into the root ban & block filter tool.
