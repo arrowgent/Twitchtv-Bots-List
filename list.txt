@@ -1,4 +1,10 @@
 # alphabetical list of bots broken into category
+
+# categories:
+# top known, misc-lurkers, users -- that abuse the api, KNOWN bots = legit bots
+
+
+# misc: (includes ALL) bots that appear in every channel, created a few days ago, has hundreds/thousands of followers, never streamed before, are not following
 007_bad_girl
 0_nekopara_0
 0x45
@@ -17,7 +23,6 @@
 4fxz
 8466321
 89002858303
-9kmmrbot
 a1bear
 a2100
 aadelead4271
@@ -236,7 +241,6 @@ coubzilla
 cowba426
 crazycynical
 crazyic
-creatisbot
 credhal8503
 crictho7527
 crimson_gamer5
@@ -642,7 +646,6 @@ ljlcard
 l____l
 llorx_falso
 l_nephilim_l
-logiceftbot
 lollyneuter
 lorypub
 love3555aa
@@ -679,7 +682,6 @@ micaela_v25
 michael_clarkxmk
 michael_lopezkgs
 miguel86r
-mikuia
 minion619
 mirrobot
 misalo0515
@@ -755,7 +757,6 @@ pipe78900
 pixelbypixel_bot
 pixelstrikes
 play24hrs
-playwithviewersbot
 pmpmpalan
 pocrevocrednu
 pogli
@@ -839,7 +840,6 @@ smallstreamersdcserver
 smatify_
 smiterholic
 solalamo_
-songlistbot
 sopalidiseend
 sophikal
 soundofraindrops
@@ -850,7 +850,6 @@ spraytorto
 srizbi
 srizbot
 srokates
-ssakdook
 stankubrick
 stayhealthybot
 stay_home_bot
@@ -865,7 +864,6 @@ stream_achievements
 streamdeckerbot
 streamer_page_discord
 streamheroes
-streamholics
 streamkit
 streamstickers
 stripfang
