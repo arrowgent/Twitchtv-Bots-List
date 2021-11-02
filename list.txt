@@ -783,18 +783,26 @@ zuclo32
 
 
 # known legit bots: not a lurker bot, is used for & by the streamer as a tool in their OWN chat
+## 9kmmrbot
 ## buttsbot
 ## creatisbot
+## dr3ddbot
+## kikettebot
+## logiceftbot
 ## lolrankbot
 ## mtgbot 
 ## moobot
 ## nightbot
+## playwithviewersbot
 ## pretzelrocks
 ## restreambot
 ## sery_bot
+## songlistbot
 ## soundalerts
-## streamholics
+## sport_scores_bot
+## ssakdook
 ## streamelements
+## streamholics
 ## streamlabs
 ## wizebot
 ## wzbot
