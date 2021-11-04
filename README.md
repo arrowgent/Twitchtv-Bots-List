@@ -67,15 +67,12 @@ a [list](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/list.txt) of 
 * however if you claim NOT to be a bot, you should remove yourself from lurking in HUNDREDS or THOUSANDS of channels simultaneously (definition)
 
 
-## other lists:
-* https://github.com/MrEliasen/twitch-bot-list
-* https://ban-twitch-bots.sirmre.com/
-
-
-## other resources:
+## other resources & lists:
 * https://twitchinsights.net/bots
 * https://twitchbots.info/bots
 * https://streamscharts.com/tools/bots
+* https://github.com/MrEliasen/twitch-bot-list
+* https://ban-twitch-bots.sirmre.com/
 * https://banlist.r3dau.pro/
 * https://twitch-tools.rootonline.de/
 * https://modlookup.3v.fi/top
