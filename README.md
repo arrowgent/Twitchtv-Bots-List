@@ -1,7 +1,7 @@
 # [Twitchtv-Bots-List](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/list.txt)
 a [list](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/list.txt) of (unwanted) known twitch bots that lurk in every channel...
 
-![atenbot](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/aten_bot.png)
+![atenbot](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/images/aten_bot.png)
 
 ## definition of a lurker bot:
 * a viewer on the viewer list that --
@@ -13,9 +13,9 @@ a [list](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/list.txt) of 
 
 
 ## examples:
-* ![bot](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/easybot1.png)
-* [example list](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/thousands_bots.png)
-* [a new one](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/d1fss.png)
+* ![bot](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/images/easybot1.png)
+* [example list](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/images/thousands_bots.png)
+* [a new one](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/images/d1fss.png)
 * [4469 channels](https://github.com/arrowgent/Twitchtv-Bots-List/commit/ffedd761f1ca9dd629b74ee216c1335c96706c59#commitcomment-51199519)
 
 
