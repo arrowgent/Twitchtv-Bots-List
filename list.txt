@@ -385,6 +385,7 @@ ddatapc6
 ddatapc7
 ddatapc8
 ddatapc9
+de127
 debymore
 decafsmurf
 defb
@@ -747,6 +748,7 @@ omegajeppe
 omg_fashionman
 omynyrg1
 onlinegiggles
+onvoi
 ooo_star_ooo
 oozebrood
 oqycizhu
@@ -946,8 +948,10 @@ universe
 unsist
 un_viri
 usb_keyboard_unplugged
+ustatsbot
 vallouzo
 v_and_k
+vanisheya
 vaterholl
 vaticancitymagoo
 vesna16184
@@ -960,6 +964,7 @@ virgoproz
 visiongaming2
 vivbot
 v_tel
+wafflebudder
 walker956
 waptart
 warsofthetrekgatestar
