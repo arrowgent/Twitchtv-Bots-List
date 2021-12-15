@@ -57,6 +57,7 @@ a [list](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/list.txt) of 
 * wget list.txt from here (download)
 * alphabetizes and sorts list.txt
 * downloads json file bot list (external) and appends to list.txt (add your own list)
+* optional show diff between the final list and current list here
 <br />
 *botlist* is sanitized against "known good bots", an imprecise science, if you need removal submit an issue
 
