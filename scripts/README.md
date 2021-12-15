@@ -17,6 +17,7 @@
 * case
 * cat
 * curl
+* diff
 * echo
 * grep
 * jq (used to format json)
