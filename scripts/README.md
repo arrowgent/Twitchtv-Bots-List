@@ -5,6 +5,7 @@
 * download list.txt from here (wget)
 * alphabetizes and sorts list.txt
 * downloads json file bot list (external) and appends to list.txt (add your own list)
+* optional show diff between the final list and current list here
 
 *botlist* is sanitized against "known good bots", an imprecise science, if you need removal submit an issue
 
