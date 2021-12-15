@@ -4,13 +4,14 @@
 list="$HOME/list.txt"
 lnew="$HOME/list_new.txt"
 lbots="$HOME/list_bots.txt"
+rbots="$HOME/list_rem.txt"
 
 # to remove # comments and empty lines --- grep -v "^#\|^$"
 
 # option alphabetical or verify
 while true; do
-    read -p "twlist (V)erify users, (A)lphabetize list, (G)et list, (S)how list (B)ots update * exit > " vagsb
-    case $vagsb in
+    read -p "twlist (V)erify users, (A)lphabetize list, (G)et list, (S)how list (B)ots update (D)iff * exit > " vagsbd
+    case $vagsbd in
         [Vv]* ) while read -r line
             do
 # testing
@@ -33,6 +34,12 @@ while true; do
 #                                echo $remove;
                                 echo "${line%%#*}" user removed;
                                 cat $list|grep -qi "${line%%#*}"|xargs sed -i -s -r "s/\b${line%%#*}\b//gI" "$list";
+# if removing test twice, timeout error possible.
+#                                sleep 0.555;
+#                                cat $list|grep -qi "${line%%#*}"|xargs sed -i -s -r "s/\b${line%%#*}\b//gI" "$list";
+# write removed users to temporary list...
+# needs work
+#                                echo "${line%%#*}" >> $rbot;
                         fi
                     done
 # timeout so not spam the api
@@ -72,6 +79,8 @@ while true; do
                 for i in ${gbot[@]}
                 do
                     cat $lnew|grep -qi ${i}|xargs sed -i -s -e "s/\b${i}\b//gI" "$lnew";
+# ensure list.txt is sanitized
+                    cat $list|grep -qi ${i}|xargs sed -i -s -e "s/\b${i}\b//gI" "$list";
                 done
 # very messy... append list.txt, organize, unique, sort, remove extra files.
                 cat $lnew >> $list;
@@ -79,6 +88,19 @@ while true; do
                 echo "sorting list.txt";
                 sed 's/.*/\L&/' $list|uniq|grep -vi "^#\|^$"|sort -uo $list;
                 echo "DONE: recommended alphabetize & sort before using";;
+# testing chatty parameters
+        [Dd]* ) echo "show diff list.txt - list2.txt";
+                echo "move list";
+                mv $list $lnew;
+                echo "get list again";
+                wget -N "https://raw.githubusercontent.com/arrowgent/Twitchtv-Bots-List/main/list.txt";
+                echo "alphabetize list for sanitation";
+                sed 's/.*/\L&/' $list|uniq|grep -vi "^#\|^$"|sort -uo $list;
+                echo "if different then show difference here";
+                diff $list $lnew;
+                echo "replacing list.txt";
+                mv $lnew $list;
+                echo "done showing diff";;
         * ) exit;;
     esac
 done
