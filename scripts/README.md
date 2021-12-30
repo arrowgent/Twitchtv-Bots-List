@@ -32,3 +32,6 @@
 * wget
 * while
 * xargs
+
+## twuserinfo
+bash script that reads list.txt and reports userinfo "created_at" date
