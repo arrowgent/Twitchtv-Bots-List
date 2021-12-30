@@ -11,6 +11,8 @@
 
 ![twlist verify](https://raw.githubusercontent.com/arrowgent/Twitchtv-Bots-List/main/images/twlVerify_ex1.png)
 
+## twuserinfo
+bash script that reads list.txt and reports userinfo "created_at" date
 
 ## software used in twlist (gnu/linux)
 * awk
@@ -32,6 +34,3 @@
 * wget
 * while
 * xargs
-
-## twuserinfo
-bash script that reads list.txt and reports userinfo "created_at" date
