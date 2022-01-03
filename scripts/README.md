@@ -13,6 +13,7 @@
 
 ## twuserinfo
 bash script that reads list.txt and reports userinfo *"created_at"* date <br />
+ability to check userinfo for ONE user *"twuserinfo jtv"*  <br />
 requires **your** oauth and client-id tokens
 
 ## software used in twlist (gnu/linux)
