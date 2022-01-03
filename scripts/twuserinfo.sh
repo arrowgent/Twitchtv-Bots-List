@@ -2,6 +2,9 @@
 
 #https://dev.twitch.tv/docs/api/reference#get-users
 
+# requires your tokens!
+oauth="YOUR-OAUTH-TOKEN"
+clientid="YOUR-CLIENTID-TOKEN"
 list="$HOME/list.txt"
 # ex: twuserinfo.sh jtv
 userinfo="$1"
@@ -14,8 +17,8 @@ while true; do
             do
 # variable used for checking
                 userdate=$(curl -s -X GET "https://api.twitch.tv/helix/users?login=${line%%#*}" \
-                -H 'Authorization: Bearer YOUR-OAUTH-TOKEN' \
-                -H 'Client-Id: YOUR-CLIENTID-TOKEN')
+                -H "Authorization: Bearer $oauth" \
+                -H "Client-Id: $clientid")
                 echo "${line%%#*}";
                 echo $userdate|grep -Go '"created_at":".*"';
                 echo "";
@@ -31,8 +34,8 @@ while true; do
                 fi
 # variable used for checking
                 userdate=$(curl -s -X GET "https://api.twitch.tv/helix/users?login=${userinfo}" \
-                -H 'Authorization: Bearer YOUR-OAUTH-TOKEN' \
-                -H 'Client-Id: YOUR-CLIENTID-TOKEN')
+                -H "Authorization: Bearer $oauth" \
+                -H "Client-Id: $clientid")
                 echo "${userinfo}";
                 echo $userdate|jq;
                 echo "";
