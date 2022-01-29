@@ -311,6 +311,7 @@ delteerdatap8
 delteerdatap9
 der_dachshund
 derjonie
+dhawnny
 dinu
 dj_vermeer
 doll_house_surprise
@@ -345,6 +346,7 @@ elbretweets
 electricallongboard
 electricalskateboard
 electricalwambo
+elenaberry
 elysian
 emersix
 emperrorlp_
@@ -657,6 +659,7 @@ play24hrs
 pmpmpalan
 pocrevocrednu
 pogli
+pokemoncommunitygame
 porowang
 prankcher
 psdlxl_
@@ -726,7 +729,19 @@ shanuala
 shimeonperes
 shine_discord1
 shine_discord10
+shine_discord11
+shine_discord12
+shine_discord13
+shine_discord14
+shine_discord15
+shine_discord16
+shine_discord17
+shine_discord18
+shine_discord19
 shine_discord2
+shine_discord20
+shine_discord21
+shine_discord22
 shine_discord3
 shine_discord4
 shine_discord5
@@ -787,6 +802,7 @@ stygian_styx
 sunamano
 swiftyspiffy
 sylithen
+tackling
 tacotuesday7313
 tada_cha
 taiwanstriker
@@ -843,6 +859,10 @@ unsist
 un_viri
 usb_keyboard_unplugged
 ustatsbot
+ustatsbot_cps
+ustatsbot_ekb
+ustatsbot_krs
+ustatsbot_spb
 vallouzo
 v_and_k
 vanisheya
