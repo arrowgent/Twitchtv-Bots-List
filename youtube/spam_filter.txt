@@ -1,0 +1,6 @@
+# youtube spam bot filters for livechats (restream filter, streamlabs filters, regex, etc)
+# @youtube studio: go to settings > community > blocked words
+
+## i will edit this and updated at a later time
+
+. 0ng,. 0nline,. ng0,. ngo,. ong,. online,. red,. rent,. site,. t0day,. tech,. today,.0ng,.0nline,.ng0,.ngo,.ong,.online,.red,.rent,.site,.t0day,.tech,.today,fyi,FYI,ni0snc,niosnc,sister19l0l,sister19lol,v0r,vasf,vom,vor,vum,vun
