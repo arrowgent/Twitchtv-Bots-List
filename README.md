@@ -31,12 +31,12 @@ a [list](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/list.txt) of 
 * click on username to see if following current channel (or `/userinfo username`)
 * if not following, then
 * look at follower count & creation date
-* if more than ~20-40 followers check if title & category is set
-* if has followers then verify has streamed before
+* if more than ~20-40 followers check if title & category is set (outdated: helix api)
+* if has followers then verify has streamed before (3rd party tools, etc)
 * **twitch-dl** videos username
 * **twitch-dl** clips username
 * if none exist then check username account on twitch.tv or other tools (**streamlink-twitch-gui**)
-* if no profile picture or offline screen
+* if no profile picture or offline screen (see twuserinfo.sh)
 * check BotList in Resources below if user appears in more than 50 channels simultaneously
 * lastly, check other low (1) viewer channels if this bot (user) appears there simultaneously
 
