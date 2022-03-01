@@ -75,6 +75,7 @@ alo_da12
 alonmizrhai
 alucain
 alwaysbot
+alxiosbot
 ambellach
 ananniel8571
 anarchyoss
@@ -476,6 +477,7 @@ jay123300
 jcdarui
 jdo432
 jeanzin019
+jebibot
 jeffersonviniciuslima
 jenxwolf
 jessevn__
