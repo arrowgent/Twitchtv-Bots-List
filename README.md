@@ -47,7 +47,9 @@ a [list](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/list.txt) of 
 
 ## missing bots user does not exist:
 * hopefully twitch removes bots occasionally.  while updating this list i noticed several are missing.
-* bot changed username
+* bot changed username - tracking this information was removed from api a few years ago. (see user_id)
+* bot owner intentionally "deactivated" account to escape detection and will reactivate later.
+* use [scripts](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/scripts) or better to quickly verify user information (limitations: helix api)
 
 
 ## my twitch list [script](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/scripts/twlist.sh)
@@ -81,3 +83,7 @@ a [list](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/list.txt) of 
 <br />
 
 note `commanderroot can be blocked/banned also, even if you use their tool` & i recommend pasting this [list](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/list.txt) into the root ban & block filter tool.
+
+## Agreement:
+* i am under no agreement to be responsible for the use of names, information, tools, or content provided here.  any use of names here are provided by public lists or api (names are often verified manually) and are subject to change based on accessing those lists.  i am not associated with any website or list provided here or elsewhere; i work independently for my own benefit and uses for other people at my own disgression.  no attempts to circumvent, fraud, or libel of any persons or software.
+* [license](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/LICENSE.md) is public domain as close as it is possible to recognize, i hold no rights over the use or distribution of "software" or "information" provided here.
