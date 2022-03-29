@@ -1,6 +1,8 @@
 #!/bin/bash
 
 #https://dev.twitch.tv/docs/api/reference#get-users
+#https://dev.twitch.tv/docs/api/reference#get-channel-information
+#https://dev.twitch.tv/docs/api/reference#get-users-follows
 
 # requires your tokens!
 oauth="YOUR-OAUTH-TOKEN"
@@ -20,7 +22,7 @@ while true; do
                 -H "Authorization: Bearer $oauth" \
                 -H "Client-Id: $clientid")
                 echo "${line%%#*}";
-                echo $userdate|grep -Go '"created_at":".*"';
+                echo $userdate|jq --raw-output '.data[0] .created_at';
                 echo "";
 # timeout so not spam the api
                 sleep 0.69;
@@ -36,8 +38,22 @@ while true; do
                 userdate=$(curl -s -X GET "https://api.twitch.tv/helix/users?login=${userinfo}" \
                 -H "Authorization: Bearer $oauth" \
                 -H "Client-Id: $clientid")
+# get channel id
+                channelid=$(echo $userdate|jq --raw-output '.data[0] .id')
+# channel id for broadcast title & game
+                channelinfo=$(curl -s -X GET "https://api.twitch.tv/helix/channels?broadcaster_id=${channelid}" \
+                -H "Authorization: Bearer $oauth" \
+                -H "Client-Id: $clientid")
+# show follower count
+                followsid=$(curl -s -X GET "https://api.twitch.tv/helix/users/follows?to_id=${channelid}" \
+                -H "Authorization: Bearer $oauth" \
+                -H "Client-Id: $clientid")
                 echo "${userinfo}";
                 echo $userdate|jq;
+                echo $channelid;
+                echo $channelinfo|jq;
+                echo "total followers";
+                echo $followsid|jq '.total';
                 echo "";
                 echo "username is empty, example \"twuserinfo.sh jtv\"";
 # timeout so not spam the api
