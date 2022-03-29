@@ -45,7 +45,7 @@ while true; do
                 -H "Authorization: Bearer $oauth" \
                 -H "Client-Id: $clientid")
 # show follower count
-                followsid=$(curl -s -X GET "https://api.twitch.tv/helix/users/follows?to_id=${channelid}" \
+                followsid=$(curl -s -X GET "https://api.twitch.tv/helix/users/follows?to_id=${channelid}&first=1" \
                 -H "Authorization: Bearer $oauth" \
                 -H "Client-Id: $clientid")
                 echo "${userinfo}";
