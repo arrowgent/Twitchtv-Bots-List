@@ -320,6 +320,7 @@ delteerdatap5
 delteerdatap7
 delteerdatap8
 delteerdatap9
+dennitzo2
 der_dachshund
 derjonie
 dhawnny
@@ -533,6 +534,7 @@ larakraf
 lattemotte
 lauradesk
 leashstrom
+ledrty
 leftviews
 leiyicat
 le_manchot_geek
