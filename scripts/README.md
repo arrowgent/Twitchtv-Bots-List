@@ -33,6 +33,6 @@ requires **your** oauth and client-id tokens
 * sort
 * twitch-dl (python on github)
 * uniq
-* wget
+* wget (removed, use curl)
 * while
 * xargs
