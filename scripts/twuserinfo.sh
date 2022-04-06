@@ -18,11 +18,11 @@ while true; do
         [Uu]* ) while read -r line
             do
 # variable used for checking
-                userdate=$(curl -s -X GET "https://api.twitch.tv/helix/users?login=${line%%#*}" \
+                userline=$(curl -s -X GET "https://api.twitch.tv/helix/users?login=${line%%#*}" \
                 -H "Authorization: Bearer $oauth" \
                 -H "Client-Id: $clientid")
                 echo "${line%%#*}";
-                echo $userdate|jq --raw-output '.data[0] .created_at';
+                echo $userline|jq --raw-output '.data[0] .created_at';
                 echo "";
 # timeout so not spam the api
                 sleep 0.69;
