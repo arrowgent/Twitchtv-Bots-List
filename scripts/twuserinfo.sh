@@ -10,6 +10,7 @@ clientid="YOUR-CLIENTID-TOKEN"
 list="$HOME/list.txt"
 # ex: twuserinfo.sh jtv
 userinfo="$1"
+twhelix="https://api.twitch.tv/helix"
 
 # read list and query userdates
 while true; do
@@ -18,7 +19,7 @@ while true; do
         [Uu]* ) while read -r line
             do
 # variable used for checking
-                userline=$(curl -s -X GET "https://api.twitch.tv/helix/users?login=${line%%#*}" \
+                userline=$(curl -s -X GET "$twhelix/users?login=${line%%#*}" \
                 -H "Authorization: Bearer $oauth" \
                 -H "Client-Id: $clientid")
                 echo "${line%%#*}";
@@ -35,17 +36,17 @@ while true; do
                     userinfo_e=${userinfo:="jtv"}
                 fi
 # variable used for checking
-                userdate=$(curl -s -X GET "https://api.twitch.tv/helix/users?login=${userinfo}" \
+                userdate=$(curl -s -X GET "$twhelix/users?login=${userinfo}" \
                 -H "Authorization: Bearer $oauth" \
                 -H "Client-Id: $clientid")
 # get channel id
                 channelid=$(echo $userdate|jq --raw-output '.data[0] .id')
 # channel id for broadcast title & game
-                channelinfo=$(curl -s -X GET "https://api.twitch.tv/helix/channels?broadcaster_id=${channelid}" \
+                channelinfo=$(curl -s -X GET "$twhelix/channels?broadcaster_id=${channelid}" \
                 -H "Authorization: Bearer $oauth" \
                 -H "Client-Id: $clientid")
 # show follower count
-                followsid=$(curl -s -X GET "https://api.twitch.tv/helix/users/follows?to_id=${channelid}&first=1" \
+                followsid=$(curl -s -X GET "$twhelix/users/follows?to_id=${channelid}&first=1" \
                 -H "Authorization: Bearer $oauth" \
                 -H "Client-Id: $clientid")
                 echo "${userinfo}";
