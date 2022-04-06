@@ -2,7 +2,7 @@
 * this script is designed for gnu/linux, its a bash script
 * for automation, cleaning, checking, and all in one "file" for managing list.txt
 * verifies if user exists on twitch (twitch-dl)
-* download list.txt from here (wget)
+* download list.txt from here (curl)
 * alphabetizes and sorts list.txt
 * downloads json file bot list (external) and appends to list.txt (add your own list)
 * optional show diff between the final list and current list here
