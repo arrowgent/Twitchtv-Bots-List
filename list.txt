@@ -394,6 +394,7 @@ ffxivstyx
 fipspilot
 fish_0703
 fixloven
+flatearthchannel
 fleetbattle
 flex3rs
 floboytwi
@@ -424,6 +425,7 @@ gingerne
 giveme_ssr
 glasnosts
 glitterya
+gloft
 gochuuvovj
 goldameir1
 gonecizhecrc
@@ -747,6 +749,7 @@ senolass
 servres
 shadowy_stix
 shanuala
+shatimka
 shimeonperes
 shine_discord1
 shine_discord10
