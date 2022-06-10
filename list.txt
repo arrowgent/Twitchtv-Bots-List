@@ -6,6 +6,7 @@
 0maisie
 0_nekopara_0
 0niva
+0_supa
 0turt
 0x45
 0x626f74
@@ -100,6 +101,7 @@ aordri7807
 apaulthony8149
 applepiechart
 apugathering
+apumusic
 apuuuuuuuuuuuuuuuuu
 arahthor8746
 arcoender
@@ -120,6 +122,7 @@ aservicestop
 ashetray21
 ashhcrimson
 asmring
+asukamikasa
 aten
 athaetim9590
 atine5343
@@ -331,6 +334,7 @@ delteerdatap5
 delteerdatap7
 delteerdatap8
 delteerdatap9
+demitidopelokled6
 dennitzo2
 der_dachshund
 derjonie
@@ -817,6 +821,7 @@ soicluberville
 solalamo_
 sonyplaystations
 sopalidiseend
+sophiafox21
 sophikal
 soundofraindrops
 soushi08
@@ -849,6 +854,7 @@ stripfang
 stygian_network
 stygian_styx
 sunamano
+supa8
 swiftyspiffy
 sylithen
 tackling
@@ -904,6 +910,7 @@ twiscord_bot
 twitchcancermonitor
 twitchencouragement
 twitchplays_zeldagames
+twitchstreamerdiscord
 tyzesc
 ult1mat3sn1p3z
 ultimafreak
