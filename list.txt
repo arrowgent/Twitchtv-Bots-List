@@ -57,7 +57,6 @@ afk_as_usual
 afortinter7358
 afridwise2282
 ag458624
-agent347
 agilet
 agormaferth848
 aguthjeff8179
@@ -872,7 +871,6 @@ streamer_page_discord
 streamheroes
 streamkit
 streamstat_pl
-streamstickers
 stripfang
 stygian_network
 stygian_styx
@@ -963,7 +961,6 @@ virgoproz
 visiongaming2
 vivbot
 v_tel
-vtuberplus
 wafflebudder
 walker956
 waptart
