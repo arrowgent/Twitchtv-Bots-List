@@ -21,6 +21,7 @@ ssakdook
 streamelements
 streamholics
 streamlabs
+streamstickers
 vtuberplus
 wizebot
 wzbot
