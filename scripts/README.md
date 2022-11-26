@@ -36,3 +36,15 @@ requires **your** oauth and client-id tokens
 * wget (removed, use curl)
 * while
 * xargs
+
+## twautoban.py (python3)
+irc login using your moderator username to a channel and /ban username from a list.  also can ban in multiple channels...
+
+requires:`NICK = "your_mod_streamer_username"`
+`auth_token = "oauth:####your auth token####"`
+
+usage: `python3 twitchautoban.py`
+
+additional files: `banlist.txt` & `channels.txt`
+
+source: [tw_auto_ban](https://github.com/chaosaudit/twitch_auto_ban)
