@@ -253,6 +253,7 @@ cgardtol4209
 chaimrevivo
 challacc
 chat_analytics
+chatlgpt
 chatstats_
 chattranslator
 cheferd1769
@@ -531,6 +532,7 @@ jyxeqakh
 kagami13
 kamicazi_7
 karisg1
+kattah
 kattynah
 kawanpls
 kaxips06
@@ -614,6 +616,7 @@ mcd0m_bot
 menachembegin1
 metaforick
 metaviews
+meverywhere
 micaela_v25
 michael_clarkxmk
 michael_lopezkgs
@@ -663,6 +666,20 @@ noblewolf
 noiz_bot
 nomooa
 nosmad5
+notabotdef11
+notabotdef12
+notabotdef13
+notabotdef14
+notabotdef15
+notabotdef16
+notabotdef17
+notabotdef2
+notabotdef3
+notabotdef4
+notabotdef5
+notabotdef6
+notabotdef8
+notabotdef9
 notamrbeastcontest
 not_real_holy
 nyaetlolita
@@ -720,6 +737,7 @@ projectneurocam
 psdlxl_
 public_enemy821
 qnfgogtktls
+quynguyenvu
 ra1denz
 radiorelaxfm
 rafalo15
@@ -838,6 +856,7 @@ srizbot
 srokates
 ssgdcserver
 stankubrick
+statslogger
 stayhealthybot
 stay_home_bot
 stay_pepega_bot
@@ -866,6 +885,7 @@ tacklingbot
 tacotuesday7313
 tada_cha
 tanonjaeng
+tarkovchangesbot
 tavert0
 tawmtawmz
 teazyou
