@@ -14,6 +14,7 @@
 0x45
 0x626f74
 1174
+1aliveafricajouhzu
 1a_twitch_emoticons_show_
 1fps
 1illllllll
@@ -108,6 +109,7 @@ anothertvvviewer
 anthropologydept
 antoni_jastrzab
 anytow
+a_ok
 aordri7807
 apaulthony8149
 applepiechart
@@ -352,6 +354,7 @@ demitidopelokled6
 dennitzo2
 derjonie
 devjimmyboy
+diavolik8
 digitalinstinct
 dinu
 discord_for_streamers__
@@ -389,6 +392,7 @@ ehleon_
 ehudbarak
 einfachfussel
 einfachuwe42
+eisenfutzi
 ekewyzhukei
 elbretweets
 electricallongboard
@@ -446,6 +450,7 @@ fuoletovui_banan
 fxhxyz
 galgoya
 galletita_de_queso
+gamers_and_streamers
 gaversolo
 geall
 gemgoon
@@ -496,6 +501,7 @@ icewizerds
 i_emka
 ifrez_tv
 ii7331
+iisabei
 iizzybeth
 immallytwitch
 imsorryjusttesting
@@ -536,6 +542,7 @@ joseluis31_
 jsymons7
 juancabardo
 junrui1027
+justcallmejuri
 just_friendly_neighbor
 just_in_chat
 jyxeqakh
@@ -552,6 +559,7 @@ kekwkaka4040
 kenshiro26
 kero____
 keystone45x
+kikkipasso
 kimberlybrowncss
 kishintern
 kittenrescue
@@ -629,6 +637,7 @@ maxxpsg
 mcd0m_
 mcd0m_bot
 mdaryaaacreep
+memote_wall
 menachembegin1
 metaforick
 metaviews
@@ -779,6 +788,7 @@ reuvenatar
 rimastino
 rkn_fry
 rladmsdb88
+rmenchik
 robohubby
 robotman000
 robot_tyanxd
@@ -838,6 +848,7 @@ shine_discord8
 shine_discord9
 shiningwing
 shlomosharf
+show__gg__
 show_gg_
 shypuf
 sicrone
@@ -978,6 +989,7 @@ vaticancitymagoo
 vesna16184
 viceeeen
 vicenbot
+victortomaili
 viewer_of_irl
 violetplxyzig
 violets_tv
@@ -996,6 +1008,7 @@ whataboutgaminglive
 whateverbichhh
 wholismr
 why_not_xxx
+whypepe
 willkoga
 wing2577
 winsock
