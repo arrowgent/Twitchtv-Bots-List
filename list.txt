@@ -286,6 +286,7 @@ cogwhistle
 columbusq
 comesma6127
 comettunes
+commanderadmin
 commanderroot
 commula
 community_for_streamers
@@ -516,6 +517,7 @@ itsfolf
 itsvodoo
 itzikkorenfine
 iviotic
+jackoplane
 jameswilliamslxq
 jamjamjm9
 janinebans
@@ -1009,6 +1011,7 @@ whateverbichhh
 wholismr
 why_not_xxx
 whypepe
+whypepeisoffline
 willkoga
 wing2577
 winsock
@@ -1034,6 +1037,7 @@ yamickle
 yapp1_
 yeezyjesuspeezus
 yeguaik
+yesimtheguy
 yete
 yitzhakrabin3
 yitzhakshamir
@@ -1047,6 +1051,7 @@ yungjug1019
 zalimsinzalim
 zayd_gb
 zigulisegra
+zladk0
 znicuuu
 zokers_biggest_fan
 zombieocean
