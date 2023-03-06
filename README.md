@@ -80,6 +80,7 @@ a [list](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/list.txt) of 
 * https://twitch-tools.rootonline.de/
 * https://modlookup.3v.fi/top
 * https://github.com/chaosaudit/twitch_auto_ban
+* https://dev.twitch.tv/docs/api/reference/#ban-user
 <br />
 
 note `commanderroot can be blocked/banned also, even if you use their tool` & i recommend pasting this [list](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/list.txt) into the root ban & block filter tool.
