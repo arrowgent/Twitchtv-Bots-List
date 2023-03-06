@@ -37,14 +37,13 @@ requires **your** oauth and client-id tokens
 * while
 * xargs
 
-## twautoban.py (python3)
-irc login using your moderator username to a channel and /ban username from a list.  also can ban in multiple channels...
+## twautoban.sh (bash)
+HELIX API login using your moderator:manage:banned_users authorization to a channel and "/ban" username from a list.  also can ban in multiple channels...
 
-requires:`NICK = "your_mod_streamer_username"`
-`auth_token = "oauth:####your auth token####"`
+requires:
+`oauth="your_mod_streamer_oauth_token"`
+`clientid="your_helix_api_client_id"`
 
-usage: `python3 twitchautoban.py`
+usage: `./twitchautoban.sh`
 
 additional files: `banlist.txt` & `channels.txt`
-
-source: [tw_auto_ban](https://github.com/chaosaudit/twitch_auto_ban)
