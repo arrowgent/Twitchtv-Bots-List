@@ -11,11 +11,6 @@
 
 ![twlist verify](https://raw.githubusercontent.com/arrowgent/Twitchtv-Bots-List/main/images/twlVerify_ex1.png)
 
-## twuserinfo
-bash script that reads list.txt and reports userinfo *"created_at"* date <br />
-ability to check userinfo for ONE user *"twuserinfo jtv"*  <br />
-requires **your** oauth and client-id tokens
-
 ## software used in twlist (gnu/linux)
 * awk
 * bash
@@ -36,6 +31,11 @@ requires **your** oauth and client-id tokens
 * wget (removed, use curl)
 * while
 * xargs
+
+## twuserinfo.sh
+bash script that reads list.txt and reports userinfo *"created_at"* date <br />
+ability to check userinfo for ONE user *"twuserinfo jtv"*  <br />
+requires **your** oauth and client-id tokens
 
 ## twautoban.sh (bash)
 HELIX API login using your moderator:manage:banned_users authorization to a channel and "/ban" username from a list.  also can ban in multiple channels...
