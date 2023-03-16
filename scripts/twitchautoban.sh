@@ -64,7 +64,7 @@ while read -r chline
 #                echo $userline|jq --raw-output '.data[0] .created_at';
                 echo "";
 # timeout so not spam the api (needs adjusting)
-                sleep 0.333333;
+                sleep 0.256;
 # read from list.txt file
     done < <(grep -vi "^#\|^$" $list);
 # read from channels.txt file
