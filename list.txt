@@ -266,6 +266,7 @@ cgardtol4209
 chaimrevivo
 challacc
 chat_analytics
+chat_for_gamers
 chatlgpt
 chatstats_
 chattranslator
@@ -296,8 +297,10 @@ comettunes
 commanderadmin
 commanderroot
 commula
+community_18k_members
 community_for_streamers
 communityshowcase
+competitivestreamwatcher
 conesericite
 copypastekappabot
 cosmicbeefmonster
@@ -448,6 +451,7 @@ fookstee
 forbearanceday
 foursilk
 francesco2345178
+freakybabetv
 freast
 freddy_lachance
 freedomhusky
@@ -1013,6 +1017,7 @@ vesna16184
 viceeeen
 vicenbot
 victortomaili
+video_game_talk
 viewer_of_irl
 violetplxyzig
 violets_tv
