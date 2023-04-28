@@ -15,6 +15,7 @@
 0turt
 0x45
 0x626f74
+0xtackling
 1174
 1aliveafricajouhzu
 1a_twitch_emoticons_show_
@@ -276,6 +277,7 @@ challacc
 charleslxjezw
 charlesor3g0j
 chat_analytics
+chatchatchatchatchatchat_
 chat_for_gamers
 chatlgpt
 chatstats_
@@ -483,6 +485,7 @@ fxhxyz
 galgoya
 galletita_de_queso
 gamers_and_streamers
+gamers__lounge
 gaversolo
 geall
 gemgoon
@@ -516,6 +519,7 @@ h4x0rgin
 h8scanner
 hades_osiris
 hak3r_bot
+hannahqt2
 hans93194
 havethis2
 heirmanttinan
@@ -598,6 +602,7 @@ justcallmejuri
 just_friendly_neighbor
 just_in_chat
 jyxeqakh
+k0ukiee
 kagami13
 kamicazi_7
 karisg1
@@ -624,6 +629,7 @@ kodiakbrujah
 kofistreambot
 kotaromaster
 kotyareg
+krolchatina_
 kyutmochimin
 ladaellada
 lady_bath_horey
@@ -646,6 +652,7 @@ leviathanapp
 levieshkol
 lf2netk331
 lfgfusion
+limetimepop
 lipton_tyan
 liquidpve
 literallyunreal
@@ -777,6 +784,7 @@ notamrbeastcontest
 not_real_holy
 nuxbot_com
 nyaetlolita
+o0followme0o
 o___c___o
 official_tubebot
 offlinegiggles
@@ -992,6 +1000,7 @@ stream_achievements
 streamdeckerbot
 streamer_page_discord
 streamers_growth
+streamers_social_space
 streamfahrer
 streamheroes
 streamkit
@@ -1066,6 +1075,7 @@ tyzesc
 ult1mat3sn1p3z
 ultimafreak
 unbanjurilol
+uncannyai
 uncle_spawn
 underworldnaiad
 undiecraft
@@ -1115,6 +1125,8 @@ willkoga
 wing2577
 winsock
 wofflestoffle
+world_of_chatters
+world_of_streamers
 wpfid5555
 wsafwan
 x3_xto
