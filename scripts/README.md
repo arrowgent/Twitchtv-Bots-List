@@ -44,6 +44,7 @@ requires:
 `oauth="your_mod_streamer_oauth_token"`
 `clientid="your_helix_api_client_id"`
 
-usage: `./twitchautoban.sh`
+usage: `./twitchautoban.sh moderatorname`
+optional: `./twitchautoban.sh moderatorname 1 channelname`
 
 additional files: `banlist.txt` & `channels.txt`
