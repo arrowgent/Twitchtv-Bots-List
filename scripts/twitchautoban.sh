@@ -20,6 +20,18 @@ chlist="channels.txt"
 #get moderator's id (your username)
 modinfo="$1"
 
+#add operator for one single channel without a file
+#ex moderatorname=$1 1=$2 channelname=$3
+if [ "$2" == "" ]; then
+:
+    else
+tmpfile=$(mktemp /tmp/1tmp_channels.XXXXX)
+echo "$3" > $tmpfile
+chlist="$tmpfile"
+cat $chlist
+fi
+echo "channels $chlist"
+
 echo "";
 
 # if input is empty then default to "jtv"
