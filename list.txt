@@ -219,6 +219,7 @@ bobsledded
 bongbar
 borahcar4649
 bossundee
+botdescartos
 bot_illskillz
 botisimo
 boxislove
@@ -458,6 +459,7 @@ fenrir0131
 ferriswirl2
 ffxivstyx
 fgcounterbot
+find_chan_to_raid
 fipspilot
 fish_0703
 fixloven
@@ -509,6 +511,7 @@ gochuuvovj
 goldameir1
 gonecizhecrc
 gongangingabioncfan
+goth_girl_morgane
 gowithhim
 graphmau
 grifordia
@@ -670,6 +673,7 @@ lucentcrown12345678910
 lucentcrown1234567891011
 luciferka_124
 lukanard
+luki4fun_bot_1
 luki4fun_bot_master
 lulu20170818
 lurkiefox
@@ -845,12 +849,14 @@ psdlxl_
 public_enemy821
 qnfgogtktls
 quynguyen10
+quynguyen104
 quynguyen30
 quynguyenvu
 ra1denz
 radiorelaxfm
 rafalo15
 rafczyk
+raidvirus
 rainmaker
 randomtwitchstats
 rans4cker
@@ -1010,6 +1016,7 @@ stygian_styx
 sunamano
 supa8
 surelyiwontgetbanned
+sweetuser11
 swiftyspiffy
 sylithen
 tackling
@@ -1101,6 +1108,7 @@ video_game_talk
 viewer_of_irl
 violetplxyzig
 violets_tv
+violets_tw
 virgoproz
 visiongaming2
 vivbot
