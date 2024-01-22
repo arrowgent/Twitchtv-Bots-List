@@ -14,6 +14,7 @@
 0nayli
 0_nekopara_0
 0niva
+0__sophia
 0_supa
 0x45
 0x626f74
@@ -109,7 +110,6 @@ ananniel8571
 anarchyoss
 anastasiausa_
 anastaysiia
-
 anethan4466
 angeeliwnl
 anitalayola
@@ -315,15 +315,12 @@ cneacarrah3003
 cnipaul5573
 coauthoring
 cogwhistle
-
 comesma6127
 comettunes
 commanderadmin
 commanderroot
 commandersort
 commula
-
-
 communityshowcase
 competitivestreamwatcher
 conesericite
@@ -483,12 +480,9 @@ ezobay
 faegwent
 fake_vexxed
 falschrimjaeger
-
 farminggurl
 fearms1
-
 feelssunnyman
-
 felixyhyunji
 fenrir0131
 ferriswirl2
@@ -505,7 +499,6 @@ flawlessdiamond123
 fleetbattle
 flex3rs
 floboytwi
-
 floboytwi_auf_twitch
 floboytwi_auf_twitch_
 fookstee
@@ -553,7 +546,6 @@ gom4312423
 gom43124232
 gongangingabioncfan
 goodgirlsage
-
 gowithhim
 graphmau
 grifordia
@@ -573,7 +565,6 @@ havethis2
 heirmanttinan
 henry1874
 henry70122
-
 herrheil
 hinderedspirit
 horsecow12
@@ -658,7 +649,6 @@ kagami13
 kamicazi_7
 karisg1
 katojun_fan
-
 kattynah
 kawanpls
 kaxips06
@@ -686,7 +676,6 @@ kyutmochimin
 ladaellada
 lady_bath_horey
 lamborizzbot
-
 lanfusion
 larakraf
 lattemotte
@@ -840,7 +829,6 @@ nom23213
 nomooa
 norwegiangirl_
 nosmad5
-notabotdef11
 notabotdef12
 notabotdef13
 notabotdef14
@@ -867,7 +855,6 @@ onlinegiggles
 onvoi
 ooo_star_ooo
 opontifex
-oqycizhu
 orbatos
 orthoduk
 ortholexy
@@ -982,7 +969,6 @@ segadream
 selvatigator
 senadani
 senolass
-servres
 shanuala
 shimeonperes
 shine_discord1
@@ -1024,18 +1010,14 @@ skilyrab
 skinnyseahorse
 skippyturtle94
 skiptok
-skumshop
 sleepingbeautysyndrome
 slocool
 smallsteramersdcserver
 smallstreamersdcserver
-smallstreamers_discord
 smashball_
 smatify_
 smiterholic
 socialbladelogger
-socialstreamergrowth
-social_world_united
 soicluberville
 solalamo_
 sonyplaystations
@@ -1058,7 +1040,6 @@ srizbi
 srizbot
 srokates
 stankubrick
-statisticcheck
 statsdude101
 statslogger
 stayhealthybot
@@ -1128,7 +1109,6 @@ thewritinger
 thiccur
 thirtysevenqt
 thisisunreallol
-thomasbjxiqc
 thomasmillerlfg
 thomasxjo6rx
 threebibl
@@ -1179,7 +1159,6 @@ victoriavictorylul
 video_game_talk
 viewer_of_irl
 violetplxyzig
-violets_tv
 violets_tw
 virgoproz
 visiongaming2
@@ -1204,7 +1183,6 @@ wing2577
 winsock
 wofflestoffle
 world_of_chatters
-world_of_streamers
 wpfid5555
 wsafwan
 wuigi77
