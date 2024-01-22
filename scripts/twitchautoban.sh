@@ -65,7 +65,22 @@ while read -r chline
                 echo "banning ${line%%#*} from #${chline}";
                 echo $userline|jq --raw-output '.data[0] .id';
 # the actual user_id of the banned
-            userid=$(echo $userline|jq --raw-output '.data[0] .id')
+		userid=$(echo $userline|jq --raw-output '.data[0] .id')
+# verify userid if null then remove.
+                echo $userid|while read -r remove;
+                    do
+                        if [[ "echo $remove" =~ "null" ]];
+                            then
+# if then do this, remove
+                                echo "${line%%#*}" $remove userid - removed;
+                                cat $list|grep -qi "${line%%#*}"|xargs sed -i -s -r "s/\b${line%%#*}\b//gI" "$list";
+# timeout so not spam the api
+                		sleep 0.1313;
+# if id then do not remove!
+                            else
+                                echo "${line%%#*}" $remove user exists;
+                        fi
+                    done
 # the line that bans
             channelline=$(curl -s -X POST "$twhelix/moderation/bans?broadcaster_id=$channelid&moderator_id=$modid" \
                 -H "Authorization: Bearer $oauth" \
