@@ -1,7 +1,8 @@
 007_bad_girl
+00_aaliyah
 00_alissa
 00_ella
-00_emilyy
+00_katie_is_desperate
 0101010101010101010111101
 01aaliyah
 01ella
@@ -16,6 +17,7 @@
 0nayli
 0_nekopara_0
 0niva
+0pshbot
 0__sophia
 0_supa
 0x45
@@ -58,6 +60,7 @@ actionshin
 actually__hannah
 adamstraubel
 adeptw
+a_desperate_girl
 adoccome2214
 adonra9967
 advocateplatform
@@ -81,7 +84,6 @@ ajomuel4493
 aka_dev_acc
 akafred5548
 akseleron03
-a_l0nely_girl
 aladra8920
 alanccw
 aleedo5274
@@ -114,7 +116,6 @@ anastasiausa_
 anastaysiia
 anethan4466
 angeeliwnl
-anitalayola
 anitamaxx
 anna_banana_10
 anonymousboy15
@@ -145,7 +146,6 @@ arnofps
 artaommahe
 aru444
 aruzhul1vh
-as48957210
 asam2861
 asangrim3563
 a_sasa
@@ -265,6 +265,7 @@ btolruth8776
 btovar3
 buccoro
 bucksumlimb
+buddi_bot
 bunnyrabbithole1
 business_daddy
 businesss
@@ -322,6 +323,7 @@ comettunes
 commanderadmin
 commanderroot
 commandersort
+commandertwsys
 commula
 communityshowcase
 competitivestreamwatcher
@@ -346,9 +348,7 @@ cthrythtine3566
 cubtree
 cuead512
 cuesta_carlos99
-cultofsharks
 cutehealgirl
-cuvi
 cwerdphie8369
 cwig5592
 cwise3159
@@ -451,6 +451,7 @@ eklipse_chat_06
 eklipse_chat_07
 eklipse_chat_08
 eklipse_chat_09
+eklipse_chat_091
 eklipse_chat_10
 eklipse_chat_101
 eklipse_chat_11
@@ -498,7 +499,6 @@ fiorafencing
 fipspilot
 fish_0703
 fixloven
-fknre
 flatearthchannel
 flawlessdiamond123
 fleetbattle
@@ -582,6 +582,7 @@ iautohost
 icantcontrolit
 icaro12oliveira
 icewizerds
+icreateandestroythisworld
 i_emka
 ifrez_tv
 ii7331
@@ -611,7 +612,6 @@ jamjamjm9
 jasonc8l4wl
 jasonndx1iq
 jasonnvs1x4
-jasont7oqk4
 jason_thompsontym
 jasonwbhhz5
 jay123300
@@ -672,7 +672,6 @@ kittenrescue
 kittykat513
 knobo_
 kodiakbrujah
-kofistreambot
 kotaromaster
 kotyareg
 kupferdose
@@ -899,7 +898,6 @@ potatomalonettv
 prankcher
 pretend2care
 psdlxl_
-pshtp
 public_enemy821
 quynguyen10
 quynguyen104
@@ -1014,6 +1012,7 @@ skilyrab
 skinnyseahorse
 skippyturtle94
 skiptok
+sleima7
 slocool
 smallsteramersdcserver
 smallstreamersdcserver
@@ -1108,7 +1107,6 @@ theqwadfather
 therussianmommy
 thesoggy_
 thespacemonkey
-thesubwaybread
 thewritinger
 thiccur
 thirtysevenqt
@@ -1131,6 +1129,7 @@ tteyyd
 tullioofani
 twilightxor
 twiscord_bot
+twitchapexstats_com
 twitchcancermonitor
 twitchencouragement
 twitchhyperss
@@ -1237,7 +1236,9 @@ zpon2283
 zpon2294
 zpon22943
 zuclo32
+zvgn
 zwarmag
 zwarpgg
 zwarpsg
+zwarptn
 zwarptq
