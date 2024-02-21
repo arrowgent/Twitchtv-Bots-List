@@ -4,6 +4,7 @@ buttsbot
 creatisbot
 dr3ddbot
 kikettebot
+kofistreambot
 logiceftbot
 lolrankbot
 mikuia
