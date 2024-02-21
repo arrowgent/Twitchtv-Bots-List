@@ -13,33 +13,8 @@ gbot=$(curl -s "https://raw.githubusercontent.com/arrowgent/Twitchtv-Bots-List/m
 
 # option alphabetical or verify
 while true; do
-    read -p "twlist (V)erify users, (A)lphabetize list, (G)et list, (S)how list (B)ots update (D)iff * exit > " vagsbd
-    case $vagsbd in
-        [Vv]* ) while read -r line
-            do
-                twitch-dl videos "${line%%#*}" --limit 1|head -2|tail -1|while read -r remove;
-                    do
-#                        remove=$remove
-# actually editing the list.txt file
-                        if [[ "echo $remove" =~ "---"|"No videos found" ]];
-                            then
-# GraphQL query failed *needfix
-# * service timeout *needfix
-                                echo $remove;
-                                echo "${line%%#*}" user exists;
-                            else
-#                                echo $remove;
-                                echo "${line%%#*}" user removed;
-                                cat $list|grep -qi "${line%%#*}"|xargs sed -i -s -r "s/\b${line%%#*}\b//gI" "$list";
-                        fi
-                    done
-# timeout so not spam the api
-                sleep 0.69;
-# read from list.txt file
-            done < <(grep -vi "^#\|^$" $list);
-            echo "DONE: recommended alphabetize & sort before using";;
-# alphabetize the list.txt file
-# only real way is to create a new file then move it. this can be done in tmpfs if desired
+    read -p "twlist (A)lphabetize list, (G)et list, (S)how list (B)ots update (D)iff * exit > " agsbd
+    case $agsbd in
         [Aa]* ) echo "alphabetical output -> list.txt";
                 sed 's/.*/\L&/' $list|uniq|grep -vi "^#\|^$"|sort -uo $list;;
 # curl latest list.txt file
