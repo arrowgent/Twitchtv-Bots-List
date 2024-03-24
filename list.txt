@@ -2,7 +2,6 @@
 00_aaliyah
 00_alissa
 00_ella
-00_katie_is_desperate
 0101010101010101010111101
 01aaliyah
 01ella
@@ -17,8 +16,6 @@
 0nayli
 0_nekopara_0
 0niva
-0pshbot
-0__sophia
 0_supa
 0x45
 0x626f74
@@ -35,12 +32,15 @@
 2547techno
 360vinz
 3jask
+3myk
+4jug
 56iju456uhh4rtehrh
 7bvllet
 7tvapp
 8466321
 89002858303
 8hvdes
+8roe
 a1bear
 a2100
 aadelead4271
@@ -134,10 +134,10 @@ apiiscool
 applepiechart
 apugathering
 apuuuuuuuuuuuuuuuuu
-aquaeww
 arahthor8746
 arcoender
 arctlco
+arczwift
 argonya_play
 aric775
 arierie1956
@@ -348,6 +348,7 @@ cthrythtine3566
 cubtree
 cuead512
 cuesta_carlos99
+cultofsharks
 cutehealgirl
 cwerdphie8369
 cwig5592
@@ -471,17 +472,14 @@ emersix
 emma_the_dilemmaa
 emperrorlp_
 ensthor
-enteentelos
 entryphones
 ep8bot
 ergolta
 erkancanyilmaz
-eveneo
 executive06
 expressways
 extramoar
 eyalberkovitz
-eyeland420
 ezobay
 faegwent
 fake_vexxed
@@ -564,6 +562,7 @@ hak3r_bot
 hambonewhalebone
 hannahqt2
 hans93194
+happybones00
 hashmapster
 havethis2
 heirmanttinan
@@ -582,7 +581,6 @@ iautohost
 icantcontrolit
 icaro12oliveira
 icewizerds
-icreateandestroythisworld
 i_emka
 ifrez_tv
 ii7331
@@ -674,10 +672,10 @@ knobo_
 kodiakbrujah
 kotaromaster
 kotyareg
-kupferdose
 kyutmochimin
 ladaellada
 lady_bath_horey
+ladyversailles
 lamborizzbot
 lanfusion
 larakraf
@@ -710,7 +708,6 @@ l____l
 llorx_falso
 l_nephilim_l
 lollyneuter
-lonely_kudzu_babe
 lonely_liza
 lorypub
 losjaraswines
@@ -756,6 +753,7 @@ mee6_staging
 melonejam
 memote_wall
 menachembegin1
+mersufy
 metaforick
 metaviews
 meverywhere
@@ -938,6 +936,7 @@ robotman000
 robot_tyanxd
 rocketbot_pro
 rockn__
+rodorigesuuu
 roger60229
 rogueg1rl
 rogueshady
@@ -1011,11 +1010,9 @@ skilyrab
 skinnyseahorse
 skippyturtle94
 skiptok
-sleima7
 slocool
 smallsteramersdcserver
 smallstreamersdcserver
-smashball_
 smatify_
 smiterholic
 socialbladelogger
@@ -1057,10 +1054,12 @@ storecina
 stormzinr
 strangebing
 stream_achievements
+streamatombot
 streamdeckerbot
 streamer_page_discord
 streamheroes
 streamhubpro
+streamingside
 streamkit
 streamstat_pl
 stripfang
@@ -1177,7 +1176,6 @@ wholismr
 whoptart
 why_not_xxx
 william0pq0qd
-williamnmdu1q
 williamvea2rw
 willkoga
 wing2577
@@ -1219,6 +1217,7 @@ yubother
 yukiii__y
 yumi457
 yungjug1019
+ywoneqac
 z1v1w1
 zalimsinzalim
 zanyzami
@@ -1234,10 +1233,11 @@ zpon2283
 zpon2294
 zpon22943
 zuclo32
-zvgn
 zwarmag
 zwarpgg
 zwarpsg
 zwarptn
 zwarptq
 zwwrptb
+zwwrptr
+zwwrptt
