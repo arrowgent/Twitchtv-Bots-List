@@ -1,5 +1,4 @@
 007_bad_girl
-00_aaliyah
 00_ava
 00_darla
 0101010101010101010111101
@@ -16,6 +15,7 @@
 0nayli
 0_nekopara_0
 0niva
+0__sophia
 0_supa
 0x45
 0x626f74
@@ -33,6 +33,7 @@
 360vinz
 3jask
 3myk
+4jug
 56iju456uhh4rtehrh
 7bvllet
 7tvapp
@@ -104,6 +105,7 @@ alo_da12
 alonmizrhai
 alucain
 alwaysbot
+alythenerdy
 amandampn
 ambellach
 amelaura
@@ -135,7 +137,6 @@ apugathering
 apuuuuuuuuuuuuuuuuu
 arahthor8746
 arcoender
-arctlco
 arczwift
 argonya_play
 aric775
@@ -328,6 +329,7 @@ commula
 communityshowcase
 competitivestreamwatcher
 conesericite
+confidence
 copypastekappabot
 cosmicbeefmonster
 coubzilla
@@ -363,7 +365,6 @@ dachshund_bertha
 daniel9rabf7
 danieladyqux
 dankboty
-dankfreeze
 dankingaround
 dankrit
 darkidraws
@@ -487,6 +488,7 @@ fake_vexxed
 falschrimjaeger
 farminggurl
 fearms1
+feelsdankmanbop
 feelssunnyman
 felixyhyunji
 fenrir0131
@@ -510,6 +512,7 @@ forbearanceday
 fortnitebabe_
 fossabot
 foursilk
+framerates
 francesco2345178
 freakybabetv
 freast
@@ -652,7 +655,6 @@ kamicazi_7
 karisg1
 katojun_fan
 kattynah
-kawanpls
 kaxips06
 kayla18067
 kekwkaka4040
@@ -752,7 +754,6 @@ mee6_staging
 melonejam
 memote_wall
 menachembegin1
-mersufy
 metaforick
 metaviews
 meverywhere
@@ -853,7 +854,6 @@ omynyrg1
 onlinegiggles
 onvoi
 ooo_star_ooo
-oraugi
 orbatos
 orthoduk
 ortholexy
@@ -884,8 +884,10 @@ pilotmikex
 pingutio
 pipe78900
 pixelbypixel_bot
+pixelicbot
 pixelstrikes
 play24hrs
+plymma
 pmbarrett314
 pmpmpalan
 pocrevocrednu
@@ -966,6 +968,7 @@ samskio
 santaclausgift
 saralna
 sayonala_
+scorpyl2
 seanmikk
 seelosc
 segadream
@@ -1046,7 +1049,6 @@ stayhealthybot
 stay_home_bot
 stay_pepega_bot
 steepsokol
-steven24nowl
 steven5wcgi5
 steven8a9uhd
 stevencfr1np
@@ -1072,6 +1074,7 @@ sullygnome1
 sunamano
 supa8
 surelyiwontgetbanned
+surpriseiq
 sweetuser11
 sylithen
 szramek_
@@ -1137,6 +1140,7 @@ twitchhyperss
 twitchpastes_com
 twitchstatstracker
 tyzesc
+ukbr
 ult1mat3sn1p3z
 ultimafreak
 unbanjurilol
@@ -1187,7 +1191,6 @@ winsock
 wofflestoffle
 world_of_chatters
 wpfid5555
-wsafwan
 wuigi77
 x3_xto
 xcelinamarie
@@ -1215,19 +1218,19 @@ yete
 yitzhakrabin3
 yitzhakshamir
 yosgart2525
-yosharpi
-yosharpia
 ypeepo
 yubother
 yukiii__y
 yumi457
 yungjug1019
 ywoneqac
+z0ngle1
 z1v1w1
 zalimsinzalim
 zanyzami
 zayd_gb
 zerovero_
+zhestykey
 zigulisegra
 zladk0
 znicuuu
