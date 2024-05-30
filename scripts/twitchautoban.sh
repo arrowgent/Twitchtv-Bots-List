@@ -7,7 +7,7 @@
 
 
 #requires your tokens!
-oauth="your bearer oauth token (that has moderation:manage:banned_users api permission)"
+oauth="your bearer oauth token (that has moderator:manage:banned_users api permission)"
 clientid="your api app token"
 
 #twitch helix api var
