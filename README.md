@@ -1,3 +1,6 @@
+## twitch finally implemented somethings to prevent lurkers; i am archiving this list as a feature reminder for other tools
+# its been a few months since anything useful has happened.  just needed to confirm things are going well before calling an end
+
 # [Twitchtv-Bots-List](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/list.txt)
 a [list](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/list.txt) of (unwanted) known twitch bots that lurk in every channel...
 
